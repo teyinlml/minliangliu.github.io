@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Mechatronic Engineering, Zhejiang University, 2015
+* Ph.D. in Mechanical Engineering, Georgia Institute of Technology, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2015 ~ Dec 2020: Graduate Research Assistant
+  * Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology
+  * Supervisor: Prof. Wei Sun
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul 2015 ~ Aug 2014: Visiting Research Student
+  * Walker Department of Mechanical Engineering, The University of Texas at Austin
+  * Supervisor: Prof. Donglei Emma Fan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+* Programming Languages
+  * Python (Tensorflow, PyTorch)
+  * MATLAB
+  * FORTRAN
+  * Java
+* Softwares
+  * CAD: SOLIDWORKS/AutoCAD
+  * Image Segmentation: 3D Slicer/Avizo
+  * Mesh Processing: Altair HyperMesh/OpenFlipper
+  * FEA/CFD: Abaqus/Ansys/Ansys Fluent
+  * Visualization: ParaView
 
 Publications
 ======
@@ -42,18 +45,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching Practicum, Georgia Institute of Technology
+  * BMED/ME6703 Tissue Mechanics (Graduate Level), Fall 2017
+  * Instructors: Prof. Wei Sun and Prof. Rudy Gleason
   
-Service and leadership
+Awards and Honors
 ======
-* Currently signed in to 43 different slack teams
+* American Heart Association (AHA) Predoctoral Fellowship, 2019-2020
+  * Award number: 19PRE34430060, Amount: $53,688
+* Ph.D. Competition Finalist, Summer Biomechanics Bioengineering and Biotransport Conference (SB3C), 2019
+* Scholarships, Zhejiang University, 2014
