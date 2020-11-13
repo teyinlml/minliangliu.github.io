@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I received a Ph.D. degree in Mechanical Engineering, Georgia Institute of Technology, under the supervision of Prof. Wei Sun. Previously, I received a B.Eng. degree in Mechatronic Engineering from Zhejiang University, in 2015.
+I received a Ph.D. degree in Mechanical Engineering from Georgia Institute of Technology in 2020, under the supervision of Prof. Wei Sun. Previously, I received a B.Eng. degree in Mechatronic Engineering from Zhejiang University, in 2015.
 
 My research interests include cardiovascular biomechanics, inverse methods and machine learning.
