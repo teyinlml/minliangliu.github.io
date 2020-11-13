@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D., Mechanical Engineering, Georgia Institute of Technology"
   location         : "Atlanta, Georgia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5PPa1lwAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/Minliang_Liu"
