@@ -16,11 +16,11 @@ Education
 
 Work experience
 ======
-* Aug 2015 ~ Dec 2020: Graduate Research Assistant
+* Aug 2015- Dec 2020: Graduate Research Assistant
   * Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology
   * Supervisor: Prof. Wei Sun
 
-* Jul 2015 ~ Aug 2014: Visiting Research Student
+* Jul 2014- Aug 2014: Visiting Research Student
   * Walker Department of Mechanical Engineering, The University of Texas at Austin
   * Supervisor: Prof. Donglei Emma Fan
   
