@@ -87,7 +87,7 @@ author:
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=5PPa1lwAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Minliang_Liu"
+  researchgate     : "https://www.researchgate.net/profile/Minliang_Liu"
   uri              :
   bitbucket        :
   codepen          :
@@ -107,7 +107,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
