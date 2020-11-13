@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * B.Eng. in Mechatronic Engineering, Zhejiang University, 2015
-* Ph.D. in Mechanical Engineering, Georgia Institute of Technology, 2020
+* Ph.D. in Mechanical Engineering, Georgia Institute of Technology, 2020 (Minor: Machine Learning and Optimization)
 
-Work experience
+Experience
 ======
 * Aug 2015- Dec 2020: Graduate Research Assistant
   * Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology
@@ -26,9 +26,12 @@ Work experience
   
 Skills
 ======
+* Machine Learning and Optimization
+  * Data mining: Python- NumPy, pandas, scikit-learn
+  * Deep learning: Python- Keras, Tensorflow, PyTorch
+  * Nonlinear programming: MATLAB- Optimization Toolbox™
 * Programming Languages
-* Programming Languages
-  * Python (Tensorflow, PyTorch)
+  * Python
   * MATLAB
   * FORTRAN
   * Java
