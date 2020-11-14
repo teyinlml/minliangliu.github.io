@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ------
-* B.Eng. in Mechatronic Engineering, Zhejiang University, 2015
 * Ph.D. in Mechanical Engineering (Minor: Machine Learning and Optimization), Georgia Institute of Technology, 2020
+* B.Eng. in Mechatronic Engineering, Zhejiang University, 2015
 
 Experience
 ------
