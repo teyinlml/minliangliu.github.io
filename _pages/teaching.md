@@ -7,6 +7,7 @@ author_profile: true
 
 A. Machine learning applications in biomechanics
 ------
+
 A1. A machine learning approach to investigate the relationship between shape features and numerically predicted risk of ascending aortic aneurysm.
 * L. Liang, **M. Liu (Co-first Author)**, C. Martin, J.A. Elefteriades, and W. Sun. 2017. *Biomechanics and Modeling in Mechanobiology*. [[Link](https://link.springer.com/article/10.1007/s10237-017-0903-9)]
 
@@ -27,6 +28,7 @@ A6. A physics-informed neural network for constitutive modeling of soft biologic
 
 B. Inverse methods for identification of in vivo hyperleastic properties of the aortic wall
 ------
+
 B1. A multi-resolution direction search (MRDS) approach based on finite element updating scheme
 * **M. Liu**, L. Liang, and W. Sun. 2018. *Journal of the Mechanical Behavior of Biomedical Materials*. [[Link](https://www.sciencedirect.com/science/article/pii/S1751616117304502)]
 
@@ -41,6 +43,7 @@ B4. Comparison of in vivo-identified (from CT images) vs ex vivo-fitted (from ti
 
 C. Anisotropic failure criteria and probabilistic failure metric of the aortic wall
 ------
+
 C1. A novel anisotropic failure criterion with distributed fiber orientations
 * **M. Liu**, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, and W. Sun. 2020. *Journal of Biomechanical Engineering*. [[Link](https://asmedigitalcollection.asme.org/biomechanical/article/142/11/111002/1086084/A-Novel-Anisotropic-Failure-Criterion-With)]
 
@@ -49,6 +52,7 @@ C2. A probabilistic and anisotropic failure metric based on Tsai-Hill theory
 
 D. Modeling of time-dependent tissue property changes
 ------
+
 D1. An Anisotropic volumetric growth approach for modeling of three-dimensional residual stress in the aortic wall.
 * H. Liu, M. Zhang, **M. Liu**, C. Martin, Z. Cai, and W. Sun. 2019. *Journal of the Mechanical Behavior of Biomedical Materials*. [[Link](https://www.sciencedirect.com/science/article/pii/S1751616118311664)]
 
@@ -57,6 +61,7 @@ D2. Modeling fatigue damage of biological soft tissues using a residual stiffnes
 
 E. Micro-sensors and actuators for health-related applications
 ------
+
 E1. An airborne particulate matter sensor based on 3D printed virtual impactor and quartz crystal microbalance.
 * J. Zhao, **M. Liu (Co-first Author)**, L. Liang, W. Wang, and J. Xie. 2016. *Sensors and Actuators A: Physical*. [[Link](https://www.sciencedirect.com/science/article/pii/S0924424715302788)]
 
