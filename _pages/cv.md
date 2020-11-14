@@ -87,7 +87,7 @@ J11. H. Liu, M. Zhang, **M. Liu**, C. Martin, Z. Cai, and W. Sun. Finite element
 
 J10. **M. Liu**, L. Liang, and W. Sun. Estimation of in vivo constitutive parameters of the aortic wall using a machine learning approach. *Computer Methods in Applied Mechanics and Engineering* 2019; 347: 201-217. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782518306297)]
 
-J9. **M. Liu**, L. Liang, C. Martin and W. Sun. On the computation of in vivo transmural mean stress of patient-specific aortic wall. *Biomechanics and Modeling in Mechanobiology* 2018; 18 (2): 387-398. [[Link](https://pubs.acs.org/doi/abs/10.1021/acsami.6b13997)]
+J9. **M. Liu**, L. Liang, C. Martin, and W. Sun. On the computation of in vivo transmural mean stress of patient-specific aortic wall. *Biomechanics and Modeling in Mechanobiology* 2018; 18 (2): 387-398. [[Link](https://pubs.acs.org/doi/abs/10.1021/acsami.6b13997)]
 
 J8. L. Liang, **M. Liu**, C. Martin, and W. Sun. A machine learning approach as a surrogate of finite element analysis–based inverse method to estimate the zero‐pressure geometry of human thoracic aorta. *International Journal for Numerical Methods in Biomedical Engineering* 2018; 34 (8): e3103. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.3103)]
 
