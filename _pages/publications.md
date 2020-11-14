@@ -10,11 +10,11 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=5PPa1
 Most of the papers are freely accessible from my [ResearchGate](https://www.researchgate.net/profile/Minliang_Liu) profile.
 
 Preprint
-======
+------
 P1. **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A probabilistic and anisotropic failure metric for ascending thoracic aortic aneurysm risk stratification. *bioRxiv*. [[Link](https://www.biorxiv.org/content/10.1101/2020.09.28.317255v1.abstract)]
 
 Journal Publications
-======
+------
 J16. **M. Liu**, L. Liang, and W. Sun. A generic physics-informed neural network-based constitutive model for soft biological tissues. *Computer Methods in Applied Mechanics and Engineering* 2020; 372, 113402. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782520305879)]
 
 J15. **M. Liu**, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, and W. Sun. A novel anisotropic failure criterion with dispersed fiber orientations for aortic tissues. *Journal of Biomechanical Engineering* 2020; 142 (11). [[Link](https://asmedigitalcollection.asme.org/biomechanical/article/142/11/111002/1086084/A-Novel-Anisotropic-Failure-Criterion-With)]
@@ -48,7 +48,7 @@ J2. K. Kim, Z. Liang, **M. Liu**, and D.E. Fan. Biobased high-performance rotary
 J1. J. Zhao, **M. Liu (Co-first Author)**, L. Liang, W. Wang, and J. Xie. Airborne particulate matter classification and concentration detection based on 3D printed virtual impactor and quartz crystal microbalance sensor. *Sensors and Actuators A: Physical* 2016; 238: 379-88. [[Link](https://www.sciencedirect.com/science/article/pii/S0924424715302788)]
 
 Conference Publications
-======
+------
 C14. **M. Liu**, L. Liang, and W. Sun. A generic constitutive framework for soft biological tissues based on physics-informed neural network. 2020 BMES Virtual Annual Meeting. Jun 14-17, 2020.
 
 C13. H. Dong, **M. Liu**, T. Qin, B. Ziganshin, H. Ellauzi, J.A. Elefteriades, and W. Sun. Patient-specific finite element analysis of ascending aortic aneurysms with operation of V-shaped resection of the noncoronary sinus. 2020 BMES Virtual Annual Meeting. Jun 14-17, 2020.
