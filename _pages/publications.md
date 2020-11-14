@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 Please visit my [Google Scholar](https://scholar.google.com/citations?user=5PPa1lwAAAAJ&hl=en) profile.
 
 Most of the papers are freely accessible from my [ResearchGate](https://www.researchgate.net/profile/Minliang_Liu) profile.
