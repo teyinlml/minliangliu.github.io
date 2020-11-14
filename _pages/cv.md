@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * B.Eng. in Mechatronic Engineering, Zhejiang University, 2015
 * Ph.D. in Mechanical Engineering (Minor: Machine Learning and Optimization), Georgia Institute of Technology, 2020
 
 Experience
-======
+------
 * Aug 2015- Dec 2020: Graduate Research Assistant
   * Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology
   * PI: [Dr. Wei Sun](https://bme.gatech.edu/bme/faculty/Wei-Sun)
@@ -29,7 +29,7 @@ Experience
   * PI: [Dr. Donglei "Emma" Fan](https://www.me.utexas.edu/faculty/faculty-directory/fan)
   
 Skills
-======
+------
 * Machine Learning and Optimization
   * Data mining: Python- NumPy, pandas, scikit-learn
   * Deep learning: Python- Keras, Tensorflow, PyTorch
@@ -47,20 +47,20 @@ Skills
   * Visualization: ParaView
 
 Teaching
-======
+------
 * Teaching Practicum, Georgia Institute of Technology
   * BMED/ME6703 Tissue Mechanics (Graduate Level), Fall 2017
   * Instructors: [Dr. Wei Sun](https://bme.gatech.edu/bme/faculty/Wei-Sun) and [Dr. Rudy Gleason](https://me.gatech.edu/faculty/gleason)
   
 Awards and Honors
-======
+------
 * American Heart Association (AHA) Predoctoral Fellowship, 2019-2020
   * Award number: 19PRE34430060, Amount: $53,688
 * Ph.D. Competition Finalist, Summer Biomechanics Bioengineering and Biotransport Conference (SB3C), 2019
 * Scholarships, Zhejiang University, 2014
 
 Patents
-======
+------
 P3. W. Sun, J. Elefteriades, L. Liang, **M. Liu**, and C. Martin. Machine Learning-based Approach for Noninvasive Assessment of Ascending Aortic Aneurysm Pressure Rupture Risk Application. *US Patent App. 62/385,357*
 
 P2. J. Xie, J. Zhao, R. Zhao, and **M. Liu**. *CN Patent CN205,506,606 U*. [[Link](https://patentimages.storage.googleapis.com/6b/c7/52/4e8e3d4a482ab9/CN205506606U.pdf)]
@@ -68,11 +68,11 @@ P2. J. Xie, J. Zhao, R. Zhao, and **M. Liu**. *CN Patent CN205,506,606 U*. [[Lin
 P1. J. Xie, J. Zhao, R. Zhao, and **M. Liu**. *CN Patent CN105,651,643 A*. [[Link](https://patentimages.storage.googleapis.com/ec/fc/d4/54630729e2a767/CN105651643A.pdf)]
 
 Preprint
-======
+------
 **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A probabilistic and anisotropic failure metric for ascending thoracic aortic aneurysm risk stratification. *bioRxiv*. [[Link](https://www.biorxiv.org/content/10.1101/2020.09.28.317255v1.abstract)]
 
 Journal Publications
-======
+------
 J16. **M. Liu**, L. Liang, and W. Sun. A generic physics-informed neural network-based constitutive model for soft biological tissues. *Computer Methods in Applied Mechanics and Engineering* 2020; 372, 113402. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782520305879)]
 
 J15. **M. Liu**, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, and W. Sun. A novel anisotropic failure criterion with dispersed fiber orientations for aortic tissues. *Journal of Biomechanical Engineering* 2020; 142 (11). [[Link](https://asmedigitalcollection.asme.org/biomechanical/article/142/11/111002/1086084/A-Novel-Anisotropic-Failure-Criterion-With)]
@@ -106,7 +106,7 @@ J2. K. Kim, Z. Liang, **M. Liu**, and D.E. Fan. Biobased high-performance rotary
 J1. J. Zhao, **M. Liu (Co-first Author)**, L. Liang, W. Wang, and J. Xie. Airborne particulate matter classification and concentration detection based on 3D printed virtual impactor and quartz crystal microbalance sensor. *Sensors and Actuators A: Physical* 2016; 238: 379-88. [[Link](https://www.sciencedirect.com/science/article/pii/S0924424715302788)]
 
 Conference Publications
-======
+------
 C14. **M. Liu**, L. Liang, and W. Sun. A generic constitutive framework for soft biological tissues based on physics-informed neural network. 2020 BMES Virtual Annual Meeting. Jun 14-17, 2020.
 
 C13. H. Dong, **M. Liu**, T. Qin, B. Ziganshin, H. Ellauzi, J.A. Elefteriades, and W. Sun. Patient-specific finite element analysis of ascending aortic aneurysms with operation of V-shaped resection of the noncoronary sinus. 2020 BMES Virtual Annual Meeting. Jun 14-17, 2020.
