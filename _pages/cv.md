@@ -59,9 +59,9 @@ Patents
 ======
 P3. W. Sun, J. Elefteriades, L. Liang, **M. Liu**, and C. Martin. Machine Learning-based Approach for Noninvasive Assessment of Ascending Aortic Aneurysm Pressure Rupture Risk Application. *US Patent App. 62/385,357*
 
-P2. J. Xie, J. Zhao, R. Zhao., and **M. Liu**. *CN Patent CN205,506,606 U*. [[Link](https://patentimages.storage.googleapis.com/6b/c7/52/4e8e3d4a482ab9/CN205506606U.pdf)]
+P2. J. Xie, J. Zhao, R. Zhao, and **M. Liu**. *CN Patent CN205,506,606 U*. [[Link](https://patentimages.storage.googleapis.com/6b/c7/52/4e8e3d4a482ab9/CN205506606U.pdf)]
 
-P1. J. Xie, J. Zhao, R. Zhao., and **M. Liu**. *CN Patent CN105,651,643 A*. [[Link](https://patentimages.storage.googleapis.com/ec/fc/d4/54630729e2a767/CN105651643A.pdf)]
+P1. J. Xie, J. Zhao, R. Zhao, and **M. Liu**. *CN Patent CN105,651,643 A*. [[Link](https://patentimages.storage.googleapis.com/ec/fc/d4/54630729e2a767/CN105651643A.pdf)]
 
 Preprint
 ======
