@@ -22,7 +22,7 @@ Machine learning applications in biomechanics
 
 Inverse methods for identification of in vivo hyperleastic properties of the aortic wall
 ====
-1.A multi-resolution direction search (MRDS) approach based on finite element updating scheme
+1. A multi-resolution direction search (MRDS) approach based on finite element updating scheme
 * **M. Liu**, L. Liang, and W. Sun. 2018. Journal of the Mechanical Behavior of Biomedical Materials.
 2. Transmural mean stress of the aortic wall can be obtained without patient-specific material properties and residual deformations
 * **M. Liu**, L. Liang, C. Martin, and W. Sun. 2018. Biomechanics and Modeling in Mechanobiology.
@@ -31,14 +31,14 @@ Inverse methods for identification of in vivo hyperleastic properties of the aor
 4. Comparison of in vivo-identified (from CT images) vs ex vivo-fitted (from tissue testing) hyperelastic properties
 * **M. Liu**, L. Liang, F. Sulejmani, X. Lou, G. Iannucci, E. Chen, B. Leshnower, and W. Sun. 2019. Scientific Reports
 Anisotropic failure criteria and probabilistic failure metric of the aortic wall
-1.A novel anisotropic failure criterion with distributed fiber orientations
+1. A novel anisotropic failure criterion with distributed fiber orientations
 * **M. Liu**, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, and W. Sun. 2020. Journal of Biomechanical Engineering.
 2. A probabilistic and anisotropic failure metric based on Tsai-Hill theory
 * **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. 2020. bioRxiv.
 
 Modeling of time-dependent tissue property changes
 ====
-1.An Anisotropic volumetric growth approach for modeling of three-dimensional residual stress in the aortic wall.
+1. An Anisotropic volumetric growth approach for modeling of three-dimensional residual stress in the aortic wall.
 * H. Liu, M. Zhang, **M. Liu**, C. Martin, Z. Cai, and W. Sun. 2019. Journal of the Mechanical Behavior of Biomedical Materials.
 2. Modeling fatigue damage of biological soft tissues using a residual stiffness-based model.
 * H. Dong, **M. Liu**, C. Martin, and W. Sun. 2020. Journal of the Mechanics and Physics of Solids.
