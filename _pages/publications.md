@@ -45,24 +45,30 @@ J1. J. Zhao, **M. Liu (Co-first Author)**, L. Liang, W. Wang, and J. Xie. Airbor
 
 Conference Publications
 ======
-C11. **M. Liu**, L. Liang, and W. Sun. A generic constitutive framework for soft biological tissues based on physics-informed neural network. 2020 BMES Virtual Annual Meeting. Jun 14-17, 2020
+C14. **M. Liu**, L. Liang, and W. Sun. A generic constitutive framework for soft biological tissues based on physics-informed neural network. 2020 BMES Virtual Annual Meeting. Jun 14-17, 2020.
 
-C10. H. Dong, **M. Liu**, T. Qin, B. Ziganshin, H. Ellauzi, J.A. Elefteriades, and W. Sun. Patient-specific finite element analysis of ascending aortic aneurysms with operation of V-shaped resection of the noncoronary sinus. 2020 BMES Virtual Annual Meeting. Jun 14-17, 2020
+C13. H. Dong, **M. Liu**, T. Qin, B. Ziganshin, H. Ellauzi, J.A. Elefteriades, and W. Sun. Patient-specific finite element analysis of ascending aortic aneurysms with operation of V-shaped resection of the noncoronary sinus. 2020 BMES Virtual Annual Meeting. Jun 14-17, 2020.
 
-C9. H. Dong, **M. Liu**, C. Martin, and W. Sun.A residual stiffness-based damage model for biological collagenous tissues under long-term cyclic-loading. *2020 ASME Summer Biomechanics Bioengineering and Biotransport Conference* (SB3C 2020). Virtual Conference, June 17-20, 2020
+C12. H. Dong, **M. Liu**, C. Martin, and W. Sun.A residual stiffness-based damage model for biological collagenous tissues under long-term cyclic-loading. *2020 ASME Summer Biomechanics Bioengineering and Biotransport Conference* (SB3C 2020). Virtual Conference, June 17-20, 2020.
 
-C8. **M. Liu**, L. Liang, X. Lou, G. Iannucci, E. Chen, B. Leshnower, and W. Sun. On the identification of heterogeneous nonlinear material properties of the aortic wall from Clinical Gated CT Scans. *International Conference on Biomechanics and Medical Engineering- Yuan-Cheng Fung 100th Birthday Celebration* (ICBME 2019). San Diego, CA, Sep 20-23, 2019. [[Link](https://www.researchgate.net/profile/Minliang_Liu/publication/336772581_On_the_Identification_of_Heterogeneous_Nonlinear_Material_Properties_of_the_Aortic_Wall_from_Clinical_Gated_CT_Scans/links/5df789414585159aa480b9a2/On-the-Identification-of-Heterogeneous-Nonlinear-Material-Properties-of-the-Aortic-Wall-from-Clinical-Gated-CT-Scans.pdf)]
+C11. X. Lou, W. Sun, **M. Liu**, F. Sulejmani, Q. Zou, M.S. AL Jabi, E.P. Chen, B.G. Leshnower. Biomechanical and histological analysis supports increased stiffness and fibrosis in chronic versus acute aortic dissection flaps. *American Heart Association's 2019 Scientific Sessions*. Philadelphia, PA. Nov 16-18, 2019. [[Link](https://www.ahajournals.org/doi/abs/10.1161/circ.140.suppl_1.14347)]
 
-C7. **M. Liu**, L. Liang, F. Sulejmani, X. Lou, G. Iannucci, E. Chen, B. Leshnower, and W. Sun. An integrated machine learning-inverse finite element approach for identification of patient specific material properties of the aortic wall from clinical CT images. *2019 ASME Summer Biomechanics Bioengineering and Biotransport Conference* (SB3C 2019). Seven Springs, PA, Jun 25-28, 2019
+C10. **M. Liu**, L. Liang, X. Lou, G. Iannucci, E. Chen, B. Leshnower, and W. Sun. On the identification of heterogeneous nonlinear material properties of the aortic wall from Clinical Gated CT Scans. *International Conference on Biomechanics and Medical Engineering- Yuan-Cheng Fung 100th Birthday Celebration* (ICBME 2019). San Diego, CA, Sep 20-23, 2019. [[Link](https://www.researchgate.net/profile/Minliang_Liu/publication/336772581_On_the_Identification_of_Heterogeneous_Nonlinear_Material_Properties_of_the_Aortic_Wall_from_Clinical_Gated_CT_Scans/links/5df789414585159aa480b9a2/On-the-Identification-of-Heterogeneous-Nonlinear-Material-Properties-of-the-Aortic-Wall-from-Clinical-Gated-CT-Scans.pdf)]
 
-C6. **M. Liu**, L. Liang, F. Sulejmani, G. Iannucci, E. Chen, B. Leshnower, and W. Sun. Estimation of in vivo material parameters of the aortic wall using multi-phase CT data. *2018 BMES Annual Meeting*. Atlanta, GA, Oct 17-20, 2018
+C9. **M. Liu**, L. Liang, F. Sulejmani, X. Lou, G. Iannucci, E. Chen, B. Leshnower, and W. Sun. An integrated machine learning-inverse finite element approach for identification of patient specific material properties of the aortic wall from clinical CT images. *2019 ASME Summer Biomechanics Bioengineering and Biotransport Conference* (SB3C 2019). Seven Springs, PA, Jun 25-28, 2019.
 
-C5. **M. Liu**, L. Liang, B. G. Leshnower, and W. Sun. Estimation of in vivo mechanical properties of the human thoracic aorta using neural networks. *The 13th International Symposium on Biomechanics in Vascular Biology and Cardiovascular Disease*. Atlanta, GA, Apr 12-13, 2018
+C8. X. Lou, W. Sun, F. Sulejmani, **M. Liu**, E. Chen, B. Leshnower. Biomechanical analysis of acute versus chronic aortic dissection flaps. *ACTS Translational Science 2019*. Washington, DC, Mar 5-8, 2019. [[Link](https://doi.org/10.1017/cts.2019.233)]
 
-C4. **M. Liu**, L. Liang, and W. Sun. Estimation of in vivo mechanical properties of the aortic wall. *The 5th International Conference on Computational and Mathematical Biomedical Engineering* (CMBE 2017). Pittsburgh, PA, Apr 10-12, 2017
+C7. **M. Liu**, L. Liang, F. Sulejmani, G. Iannucci, E. Chen, B. Leshnower, and W. Sun. Estimation of in vivo material parameters of the aortic wall using multi-phase CT data. *2018 BMES Annual Meeting*. Atlanta, GA, Oct 17-20, 2018.
 
-C3. L. Liang, **M. Liu**, and W. Sun. Estimation of collagenous tissue elastic property from microscopy images using deep learning. *The 5th International Conference on Computational and Mathematical Biomedical Engineering* (CMBE 2017). Pittsburgh, PA, Apr 10-12, 2017
+C6. **M. Liu**, L. Liang, B. G. Leshnower, and W. Sun. Estimation of in vivo mechanical properties of the human thoracic aorta using neural networks. *The 13th International Symposium on Biomechanics in Vascular Biology and Cardiovascular Disease*. Atlanta, GA, Apr 12-13, 2018.
 
-C2. K. Kim, Z. Liang, **M. Liu**, and D.E. Fan. High-performance rotary micromachines based on biomaterials and their applications in microfluidics. *2016 MRS Fall Meeting & Exhibit*. Boston, MA, Nov 27-Dec 2, 2016.
+C5. **M. Liu**, L. Liang, and W. Sun. Estimation of in vivo mechanical properties of the aortic wall. *The 5th International Conference on Computational and Mathematical Biomedical Engineering* (CMBE 2017). Pittsburgh, PA, Apr 10-12, 2017.
+
+C4. L. Liang, **M. Liu**, and W. Sun. Estimation of collagenous tissue elastic property from microscopy images using deep learning. *The 5th International Conference on Computational and Mathematical Biomedical Engineering* (CMBE 2017). Pittsburgh, PA, Apr 10-12, 2017.
+
+C3. K. Kim, Z. Liang, **M. Liu**, and D.E. Fan. High-performance rotary micromachines based on biomaterials and their applications in microfluidics. *2016 MRS Fall Meeting & Exhibit*. Boston, MA, Nov 27-Dec 2, 2016.
+
+C2. K. Kim, **M. Liu**, and D.E. Fan. Bioinspired Rotary Micromachines for Microfluidic Applications. *ASME 2016 5th Global Congress on NanoEngineering for Medicine and Biology* (NEMB 2016). Houston, TX, Feb 21-24, 2016.
 
 C1. J. Zhao, **M. Liu**, W. Wang, and J. Xie. Airborne particulate matter classification and concentration detection based on 3D printed virtual impactor and quartz crystal microbalance sensor. *The 29th IEEE International Conference on. Micro Electro Mechanical Systems* (MEMS 2016). Shanghai, China, Jan 24-28, 2016. [[Link](https://www.sciencedirect.com/science/article/pii/S0924424715302788)]
