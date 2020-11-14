@@ -8,7 +8,7 @@ author_profile: true
 Machine learning applications in biomechanics
 ====
 1. A machine learning approach to investigate the relationship between shape features and numerically predicted risk of ascending aortic aneurysm.
-* L. Liang, **M. Liu (Co-first Author)**, C. Martin, J. A. Elefteriades, and W. Sun. 2017. *Biomechanics and Modeling in Mechanobiology*. [[Link](https://link.springer.com/article/10.1007/s10237-017-0903-9)]
+* L. Liang, **M. Liu (Co-first Author)**, C. Martin, J.A. Elefteriades, and W. Sun. 2017. *Biomechanics and Modeling in Mechanobiology*. [[Link](https://link.springer.com/article/10.1007/s10237-017-0903-9)]
 2. A deep learning approach to estimate tissue nonlinear anisotropic stress-strain responses from microscopy images.
 * L. Liang, **M. Liu**, and W. Sun. 2017. *Acta Biomaterialia*. [[Link](https://www.sciencedirect.com/science/article/pii/S1742706117305883)]
 3. A deep learning approach to estimate stress distribution: a fast and accurate surrogate of finite-element analysis.
