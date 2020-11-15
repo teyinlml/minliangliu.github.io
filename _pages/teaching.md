@@ -69,7 +69,7 @@ B2. Transmural mean stress of the aortic wall can be obtained without patient-sp
 B3. A novel inverse method based on a stress-matching objective function.
 
 <p align="center">
-<img src="https://minliangliu.github.io//images/stress.PNG" width="913" height="390" />
+<img src="https://minliangliu.github.io//images/stress.PNG" width="639" height="273" />
 </p>
 
 * We developed a novel inverse method based on a stress-matching strategy. The computationally-expensive FE simulations can be avoided. The method was validated through numerical experiments by using the *in vivo* data from 4 ATAA patients. The results demonstrated that the method is computationally efficient.
@@ -120,7 +120,7 @@ E. Micro-sensors and actuators for health-related applications
 E1. An airborne particulate matter sensor based on 3D printed virtual impactor and quartz crystal microbalance.
 
 <p align="center">
-<img src="https://minliangliu.github.io//images/PM.PNG" width="635" height="469" />
+<img src="https://minliangliu.github.io//images/PM.PNG" width="445" height="328" />
 </p>
 
 * We designed and fabricated a miniature system for detection of airborne particulate matter (PM). To classify airborne particles according to their size, a virtual impactor is fabricated using three-dimensional (3D) printing process. A QCM resonant sensor is utilized to detect the mass of the separated particles. Experimental validations were performed which showed that the resonant frequency of the QCM turns downward linearly with the PM mass loading increasing.
