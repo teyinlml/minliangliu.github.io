@@ -10,7 +10,7 @@ A. Machine learning applications in biomechanics
 
 A1. A machine learning approach to investigate the relationship between shape features and numerically predicted risk of ascending aortic aneurysm.
 
-<img src="https://minliangliu.github.io//images/PRR.PNG" width="697" height="561" />
+<img src="https://minliangliu.github.io//images/PRR.PNG" width="349" height="281" />
 
 * We investigated the feasibility of a machine learning approach to establish the linkages between shape features and FEA-predicted ATAA rupture risk, and it may serve as a faster surrogate for FEA associated with long simulation time and numerical convergence issues. The results show that statistical shape model (SSM) parameters can be used as strong shape features to make predictions of risk scores consistent with FEA. Compared to FEA, this machine learning approach is magnitudes faster. 
 * L. Liang, **M. Liu (Co-first Author)**, C. Martin, J.A. Elefteriades, and W. Sun. 2017. *Biomechanics and Modeling in Mechanobiology*. [[Link](https://link.springer.com/article/10.1007/s10237-017-0903-9)]
@@ -26,14 +26,14 @@ A4. A machine learning approach to estimate the zero‐pressure geometry of huma
 
 A5. A machine learning approach for estimation of *in vivo* constitutive parameters of the aortic wall.
 
-<img src="https://minliangliu.github.io//images/MLmat.PNG" width="760" height="283" />
+<img src="https://minliangliu.github.io//images/MLmat.PNG" width="507" height="189" />
 
 * We developed a machine learning approach to expedite the procedure of *in vivo* material parameter identification. The nonlinear relationship between the two loaded shapes and the constitutive parameters is established by an ML-model, which was trained and tested using finite element (FE) simulation datasets. 
 * **M. Liu**, L. Liang, and W. Sun. 2019. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782518306297)]
 
 A6. A physics-informed neural network for constitutive modeling of soft biological tissues.
 
-<img src="https://minliangliu.github.io//images/NNMat.PNG" width="826" height="488" />
+<img src="https://minliangliu.github.io//images/NNMat.PNG" width="620" height="366" />
 
 * We developed a novel generic physics-informed neural network material (NNMat) model which employs a hierarchical learning strategy and a novel neural network structure: (1) a class parameter set for characterizing the general elastic properties; and (2) a subject parameter set (three parameters) for describing individual material response. The trained NNMat model may be directly adopted for a different subject without re-training the class parameters, and only the subject parameters are considered as constitutive parameters. Skip connections are utilized in the neural network to facilitate hierarchical learning. A convexity constraint was imposed to the NNMat model to ensure that the constitutive model is physically relevant.
 * **M. Liu**, L. Liang, and W. Sun. 2020. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782520305879)]
@@ -43,7 +43,7 @@ B. Inverse methods for identification of *in vivo* hyperleastic properties of th
 
 B1. A multi-resolution direction search (MRDS) approach based on finite element updating scheme.
 
-<img src="https://minliangliu.github.io//images/multi.PNG" width="866" height="515" />
+<img src="https://minliangliu.github.io//images/multi.PNG" width="650" height="386" />
 
 * We proposed a novel MRDS approach for estimation of nonlinear anisotropic constitutive parameters of the aortic wall. Based on the finite element (FE) updating scheme, the MRDS approach searches the discretized principal component analysis (PCA) spaces at different resolutions in a ‘coarse to fine’ fashion. Our results show that the number of FE iterations was significantly reduced compared to previous methods.
 * **M. Liu**, L. Liang, and W. Sun. 2018. *Journal of the Mechanical Behavior of Biomedical Materials*. [[Link](https://www.sciencedirect.com/science/article/pii/S1751616117304502)]
