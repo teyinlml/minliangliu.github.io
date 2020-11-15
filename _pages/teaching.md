@@ -95,7 +95,7 @@ C1. A novel anisotropic failure criterion with distributed fiber orientations.
 
 * **M. Liu**, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, and W. Sun. 2020. *Journal of Biomechanical Engineering*. [[Link](https://asmedigitalcollection.asme.org/biomechanical/article/142/11/111002/1086084/A-Novel-Anisotropic-Failure-Criterion-With)]
 
-C2. A probabilistic and anisotropic failure metric based on Tsai-Hill theory.
+C2. A probabilistic and anisotropic failure metric based on the Tsai-Hill theory.
 * We developed a novel probabilistic and anisotropic failure metric for ATAA risk assessment. Uniaxial tensile tests were performed using aortic tissue samples of 84 ATAA patients, from which a joint probability distribution of the anisotropic wall strengths was obtained. An anisotropic failure probability (FP) metric based on the Tsai-Hill (TH) failure criterion was subsequently derived. The novel FP metric, which incorporates uncertainty and anisotropy of failure properties, can be evaluated given wall stresses. For method validation, “ground-truth” risks of additional 41 ATAA patients were numerically-reconstructed using matching CT images and tissue testing data. 
 
 <p align="center">
