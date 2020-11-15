@@ -24,6 +24,9 @@ A5. A machine learning approach for estimation of in vivo constitutive parameter
 * **M. Liu**, L. Liang, and W. Sun. 2019. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782518306297)]
 
 A6. A physics-informed neural network for constitutive modeling of soft biological tissues.
+
+<img src="https://minliangliu.github.io//images/NNMat.PNG" width="826" height="488" />
+We developed a novel generic physics-informed neural network material (NNMat) model which employs a hierarchical learning strategy by following the steps: (1) establishing constitutive laws to describe general characteristic behaviors of a class of materials; (2) determining constitutive parameters for an individual subject. A novel neural network structure was proposed which has two sets of parameters: (1) a class parameter set for characterizing the general elastic properties; and (2) a subject parameter set (three parameters) for describing individual material response. The trained NNMat model may be directly adopted for a different subject without re-training the class parameters, and only the subject parameters are considered as constitutive parameters. Skip connections are utilized in the neural network to facilitate hierarchical learning. A convexity constraint was imposed to the NNMat model to ensure that the constitutive model is physically relevant.
 * **M. Liu**, L. Liang, and W. Sun. 2020. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782520305879)]
 
 B. Inverse methods for identification of in vivo hyperleastic properties of the aortic wall
