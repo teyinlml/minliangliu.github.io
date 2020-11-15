@@ -88,9 +88,21 @@ C. Anisotropic failure criteria and probabilistic failure metric of the aortic w
 ------
 
 C1. A novel anisotropic failure criterion with distributed fiber orientations.
+
+<p align="center">
+<img src="https://minliangliu.github.io//images/failure.PNG" width="637" height="248" />
+</p>
+
+* We proposed a novel stress-based anisotropic failure criterion with dispersed fiber orientations. In the new failure criterion, the overall failure metric is computed by using angular integration (AI) of failure metrics in all directions. Affine rotations of fiber orientations due to finite deformation are taken into account in an anisotropic hyperelastic constitutive model.
 * **M. Liu**, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, and W. Sun. 2020. *Journal of Biomechanical Engineering*. [[Link](https://asmedigitalcollection.asme.org/biomechanical/article/142/11/111002/1086084/A-Novel-Anisotropic-Failure-Criterion-With)]
 
 C2. A probabilistic and anisotropic failure metric based on Tsai-Hill theory.
+
+<p align="center">
+<img src="https://minliangliu.github.io//images/FP.PNG" width="771" height="301" />
+</p>
+
+* We developed a novel probabilistic and anisotropic failure metric for ATAA risk assessment. Uniaxial tensile tests were performed using aortic tissue samples of 84 ATAA patients, from which a joint probability distribution of the anisotropic wall strengths was obtained. An anisotropic failure probability (FP) metric based on the Tsai-Hill (TH) failure criterion was subsequently derived. The novel FP metric, which incorporates uncertainty and anisotropy of failure properties, can be evaluated given wall stresses. For method validation, “ground-truth” risks of additional 41 ATAA patients were numerically-reconstructed using matching CT images and tissue testing data. 
 * **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. 2020. *bioRxiv*. [[Link](https://www.biorxiv.org/content/10.1101/2020.09.28.317255v1.abstract)]
 
 D. Modeling of time-dependent tissue property changes
@@ -106,6 +118,12 @@ E. Micro-sensors and actuators for health-related applications
 ------
 
 E1. An airborne particulate matter sensor based on 3D printed virtual impactor and quartz crystal microbalance.
+
+<p align="center">
+<img src="https://minliangliu.github.io//images/PM.PNG" width="635" height="469" />
+</p>
+
+* We designed and fabricated a miniature system for detection of airborne particulate matter (PM). To classify airborne particles according to their size, a virtual impactor is fabricated using three-dimensional (3D) printing process. A QCM resonant sensor is utilized to detect the mass of the separated particles. Experimental validations were performed which showed that the resonant frequency of the QCM turns downward linearly with the PM mass loading increasing.
 * J. Zhao, **M. Liu (Co-first Author)**, L. Liang, W. Wang, and J. Xie. 2016. *Sensors and Actuators A: Physical*. [[Link](https://www.sciencedirect.com/science/article/pii/S0924424715302788)]
 
 E2. Biobased high-performance rotary micromotors for individually reconfigurable micromachine arrays and microfluidic applications.
