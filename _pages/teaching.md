@@ -99,7 +99,7 @@ C2. A probabilistic and anisotropic failure metric based on Tsai-Hill theory.
 * We developed a novel probabilistic and anisotropic failure metric for ATAA risk assessment. Uniaxial tensile tests were performed using aortic tissue samples of 84 ATAA patients, from which a joint probability distribution of the anisotropic wall strengths was obtained. An anisotropic failure probability (FP) metric based on the Tsai-Hill (TH) failure criterion was subsequently derived. The novel FP metric, which incorporates uncertainty and anisotropy of failure properties, can be evaluated given wall stresses. For method validation, “ground-truth” risks of additional 41 ATAA patients were numerically-reconstructed using matching CT images and tissue testing data. 
 
 <p align="center">
-<img src="https://minliangliu.github.io//images/FP.PNG" width="771" height="301" />
+<img src="https://minliangliu.github.io//images/FP.PNG" width="694" height="271" />
 </p>
 
 * **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. 2020. *bioRxiv*. [[Link](https://www.biorxiv.org/content/10.1101/2020.09.28.317255v1.abstract)]
