@@ -9,12 +9,11 @@ A. Machine learning applications in biomechanics
 ------
 
 A1. A machine learning approach to investigate the relationship between shape features and numerically predicted risk of ascending aortic aneurysm.
-
+* We investigated the feasibility of a machine learning approach to establish the linkages between shape features and FEA-predicted ascending thoracic aortic aneurysm (ATAA) rupture risk, and it may serve as a faster surrogate for FEA associated with long simulation time and numerical convergence issues. The results show that statistical shape model (SSM) parameters can be used as strong shape features to make predictions of risk scores consistent with FEA. Compared to FEA, this machine learning approach is magnitudes faster. 
 <p align="center">
   <img src="https://minliangliu.github.io//images/PRR.PNG" width="436" height="351" />
 </p>
 
-* We investigated the feasibility of a machine learning approach to establish the linkages between shape features and FEA-predicted ascending thoracic aortic aneurysm (ATAA) rupture risk, and it may serve as a faster surrogate for FEA associated with long simulation time and numerical convergence issues. The results show that statistical shape model (SSM) parameters can be used as strong shape features to make predictions of risk scores consistent with FEA. Compared to FEA, this machine learning approach is magnitudes faster. 
 * L. Liang, **M. Liu (Co-first Author)**, C. Martin, J.A. Elefteriades, and W. Sun. 2017. *Biomechanics and Modeling in Mechanobiology*. [[Link](https://link.springer.com/article/10.1007/s10237-017-0903-9)]
 
 A2. A deep learning approach to estimate tissue nonlinear anisotropic stress-strain responses from microscopy images.
