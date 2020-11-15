@@ -29,25 +29,26 @@ A6. A physics-informed neural network for constitutive modeling of soft biologic
 B. Inverse methods for identification of in vivo hyperleastic properties of the aortic wall
 ------
 
-B1. A multi-resolution direction search (MRDS) approach based on finite element updating scheme
+B1. A multi-resolution direction search (MRDS) approach based on finite element updating scheme.
+<img src="./images/multi.png" width="1155" height="687" />
 * **M. Liu**, L. Liang, and W. Sun. 2018. *Journal of the Mechanical Behavior of Biomedical Materials*. [[Link](https://www.sciencedirect.com/science/article/pii/S1751616117304502)]
 
-B2. Transmural mean stress of the aortic wall can be obtained without patient-specific material properties and residual deformations
+B2. Transmural mean stress of the aortic wall can be obtained without patient-specific material properties and residual deformations.
 * **M. Liu**, L. Liang, C. Martin, and W. Sun. 2018. *Biomechanics and Modeling in Mechanobiology*. [[Link](https://link.springer.com/article/10.1007/s10237-018-1089-5)]
 
-B3. A novel inverse method based on a stress-matching objective function
+B3. A novel inverse method based on a stress-matching objective function.
 * **M. Liu**, L. Liang, and W. Sun. 2017. *Journal of the Mechanical Behavior of Biomedical Materials*. [[Link](https://www.sciencedirect.com/science/article/pii/S1751616117301893)]
 
-B4. Comparison of in vivo-identified (from CT images) vs ex vivo-fitted (from tissue testing) hyperelastic properties
+B4. Comparison of in vivo-identified (from CT images) vs ex vivo-fitted (from tissue testing) hyperelastic properties.
 * **M. Liu**, L. Liang, F. Sulejmani, X. Lou, G. Iannucci, E. Chen, B. Leshnower, and W. Sun. 2019. *Scientific Reports*. [[Link](https://www.nature.com/articles/s41598-019-49438-w)]
 
 C. Anisotropic failure criteria and probabilistic failure metric of the aortic wall
 ------
 
-C1. A novel anisotropic failure criterion with distributed fiber orientations
+C1. A novel anisotropic failure criterion with distributed fiber orientations.
 * **M. Liu**, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, and W. Sun. 2020. *Journal of Biomechanical Engineering*. [[Link](https://asmedigitalcollection.asme.org/biomechanical/article/142/11/111002/1086084/A-Novel-Anisotropic-Failure-Criterion-With)]
 
-C2. A probabilistic and anisotropic failure metric based on Tsai-Hill theory
+C2. A probabilistic and anisotropic failure metric based on Tsai-Hill theory.
 * **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. 2020. *bioRxiv*. [[Link](https://www.biorxiv.org/content/10.1101/2020.09.28.317255v1.abstract)]
 
 D. Modeling of time-dependent tissue property changes
