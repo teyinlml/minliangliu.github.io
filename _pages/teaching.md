@@ -33,7 +33,7 @@ A5. A machine learning approach for estimation of *in vivo* constitutive paramet
 
 A6. A physics-informed neural network for constitutive modeling of soft biological tissues.
 
-<img src="https://minliangliu.github.io//images/NNMat.PNG" width="620" height="366" />
+<img src="https://minliangliu.github.io//images/NNMat.PNG" width="465" height="275" />
 
 * We developed a novel generic physics-informed neural network material (NNMat) model which employs a hierarchical learning strategy and a novel neural network structure: (1) a class parameter set for characterizing the general elastic properties; and (2) a subject parameter set (three parameters) for describing individual material response. The trained NNMat model may be directly adopted for a different subject without re-training the class parameters, and only the subject parameters are considered as constitutive parameters. Skip connections are utilized in the neural network to facilitate hierarchical learning. A convexity constraint was imposed to the NNMat model to ensure that the constitutive model is physically relevant.
 * **M. Liu**, L. Liang, and W. Sun. 2020. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782520305879)]
@@ -50,7 +50,7 @@ B1. A multi-resolution direction search (MRDS) approach based on finite element 
 
 B2. Transmural mean stress of the aortic wall can be obtained without patient-specific material properties and residual deformations.
 
-<img src="https://minliangliu.github.io//images/SD.PNG" width="870" height="296" />
+<img src="https://minliangliu.github.io//images/SD.PNG" width="580" height="197" />
 
 * We demonstrated that the transmural mean stress can be readily obtained from *in vivo* clinical images without knowing the patient-specific material properties and residual deformations. Computation of patient-specific mean stress can be greatly simplified by using statical determinacy, which may be clinically valuable.
 
