@@ -11,8 +11,11 @@ redirect_from:
 
 Education
 ------
-* Ph.D. in Mechanical Engineering (Minor: Machine Learning and Optimization), Georgia Institute of Technology, 2020
+* Ph.D. in Mechanical Engineering, Georgia Institute of Technology, 2020
+  * Dissertation: Identification of *in vivo* material properties of ascending thoracic aortic aneurysm: towards noninvasive risk assessment.
+  * GPA: 4.0/4.0, Minor: Machine Learning and Optimization
 * B.Eng. in Mechatronic Engineering, Zhejiang University, 2015
+  * GPA: 3.9/4.0
 
 Experience
 ------
@@ -48,8 +51,8 @@ Skills
 
 Teaching
 ------
-* Teaching Practicum, Georgia Institute of Technology
-  * BMED/ME6703 Tissue Mechanics (Graduate Level), Fall 2017
+* Guest Lecturer, Georgia Institute of Technology, Fall 2017
+  * Teaching Practicum, BMED/ME6703 Tissue Mechanics (Graduate Level), delivered three lectures
   * Instructors: [Dr. Wei Sun](https://bme.gatech.edu/bme/faculty/Wei-Sun) and [Dr. Rudy Gleason](https://me.gatech.edu/faculty/gleason)
   
 Awards and Honors
