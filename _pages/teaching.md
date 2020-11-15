@@ -30,7 +30,7 @@ B. Inverse methods for identification of in vivo hyperleastic properties of the 
 ------
 
 B1. A multi-resolution direction search (MRDS) approach based on finite element updating scheme.
-<img src="./images/multi.PNG" width="115" height="68" />
+<img src="https://minliangliu.github.io//images/multi.PNG" width="115" height="68" />
 * **M. Liu**, L. Liang, and W. Sun. 2018. *Journal of the Mechanical Behavior of Biomedical Materials*. [[Link](https://www.sciencedirect.com/science/article/pii/S1751616117304502)]
 
 B2. Transmural mean stress of the aortic wall can be obtained without patient-specific material properties and residual deformations.
