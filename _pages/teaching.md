@@ -14,7 +14,7 @@ A1. A machine learning approach to investigate the relationship between shape fe
   <img src="https://minliangliu.github.io//images/PRR.PNG" width="436" height="351" />
 </p>
 
-* We investigated the feasibility of a machine learning approach to establish the linkages between shape features and FEA-predicted ATAA rupture risk, and it may serve as a faster surrogate for FEA associated with long simulation time and numerical convergence issues. The results show that statistical shape model (SSM) parameters can be used as strong shape features to make predictions of risk scores consistent with FEA. Compared to FEA, this machine learning approach is magnitudes faster. 
+* We investigated the feasibility of a machine learning approach to establish the linkages between shape features and FEA-predicted ascending thoracic aortic aneurysm (ATAA) rupture risk, and it may serve as a faster surrogate for FEA associated with long simulation time and numerical convergence issues. The results show that statistical shape model (SSM) parameters can be used as strong shape features to make predictions of risk scores consistent with FEA. Compared to FEA, this machine learning approach is magnitudes faster. 
 * L. Liang, **M. Liu (Co-first Author)**, C. Martin, J.A. Elefteriades, and W. Sun. 2017. *Biomechanics and Modeling in Mechanobiology*. [[Link](https://link.springer.com/article/10.1007/s10237-017-0903-9)]
 
 A2. A deep learning approach to estimate tissue nonlinear anisotropic stress-strain responses from microscopy images.
@@ -67,9 +67,21 @@ B2. Transmural mean stress of the aortic wall can be obtained without patient-sp
 * **M. Liu**, L. Liang, C. Martin, and W. Sun. 2018. *Biomechanics and Modeling in Mechanobiology*. [[Link](https://link.springer.com/article/10.1007/s10237-018-1089-5)]
 
 B3. A novel inverse method based on a stress-matching objective function.
+
+<p align="center">
+<img src="https://minliangliu.github.io//images/stress.PNG" width="913" height="390" />
+</p>
+
+* We developed a novel inverse method based on a stress-matching strategy. The computationally-expensive FE simulations can be avoided. The method was validated through numerical experiments by using the *in vivo* data from 4 ATAA patients. The results demonstrated that the method is computationally efficient.
 * **M. Liu**, L. Liang, and W. Sun. 2017. *Journal of the Mechanical Behavior of Biomedical Materials*. [[Link](https://www.sciencedirect.com/science/article/pii/S1751616117301893)]
 
 B4. Comparison of *in vivo*-identified (from CT images) vs *ex vivo*-fitted (from tissue testing) hyperelastic properties.
+
+<p align="center">
+<img src="https://minliangliu.github.io//images/validation.PNG" width="873" height="358" />
+</p>
+
+* Using an improved version of MRDS approach, we estimated *in vivo* aortic tissue hyperelastic properties of two ATAA patients from pre-operative gated CT scans. For comparison, corresponding surgically-resected aortic wall tissue samples were obtained and subjected to planar biaxial tests. Relatively close matches were achieved for the *in vivo*-identified and *ex vivo*-fitted stress-stretch responses.
 * **M. Liu**, L. Liang, F. Sulejmani, X. Lou, G. Iannucci, E. Chen, B. Leshnower, and W. Sun. 2019. *Scientific Reports*. [[Link](https://www.nature.com/articles/s41598-019-49438-w)]
 
 C. Anisotropic failure criteria and probabilistic failure metric of the aortic wall
