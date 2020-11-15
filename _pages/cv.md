@@ -17,7 +17,7 @@ Education
 Experience
 ------
 * Aug 2015- Dec 2020: Graduate Research Assistant
-  * Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology
+  * Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University
   * PI: [Dr. Wei Sun](https://bme.gatech.edu/bme/faculty/Wei-Sun)
 
 * Dec 2014- Jun 2015: Undergraduate Researcher
