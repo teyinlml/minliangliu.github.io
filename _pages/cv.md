@@ -70,9 +70,11 @@ P2. J. Xie, J. Zhao, R. Zhao, and **M. Liu**. *CN Patent CN205,506,606 U*. [[Lin
 
 P1. J. Xie, J. Zhao, R. Zhao, and **M. Liu**. *CN Patent CN105,651,643 A*. [[Link](https://patentimages.storage.googleapis.com/ec/fc/d4/54630729e2a767/CN105651643A.pdf)]
 
-Preprint
+Preprints
 ------
-**M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A probabilistic and anisotropic failure metric for ascending thoracic aortic aneurysm risk stratification. *bioRxiv*. [[Link](https://www.biorxiv.org/content/10.1101/2020.09.28.317255v1.abstract)]
+P1. **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A probabilistic and anisotropic failure metric for ascending thoracic aortic aneurysm risk stratification. *bioRxiv*. [[Link](https://www.biorxiv.org/content/10.1101/2020.09.28.317255v1.abstract)]
+
+P2. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, and W. Sun. Engineering analysis of aortic wall stress in the surgery of V-shape resection of the noncoronary sinus. *medRxiv*. [[Link](https://www.medrxiv.org/content/10.1101/2020.12.02.20239475v1)]
 
 Journal Publications
 ------
@@ -110,9 +112,9 @@ J1. J. Zhao, **M. Liu (Co-first Author)**, L. Liang, W. Wang, and J. Xie. Airbor
 
 Conference Publications
 ------
-C14. **M. Liu**, L. Liang, and W. Sun. A generic constitutive framework for soft biological tissues based on physics-informed neural network. 2020 BMES Virtual Annual Meeting. Jun 14-17, 2020.
+C14. **M. Liu**, L. Liang, and W. Sun. A generic constitutive framework for soft biological tissues based on physics-informed neural network. *2020 BMES Virtual Annual Meeting*. Jun 14-17, 2020.
 
-C13. H. Dong, **M. Liu**, T. Qin, B. Ziganshin, H. Ellauzi, J.A. Elefteriades, and W. Sun. Patient-specific finite element analysis of ascending aortic aneurysms with operation of V-shaped resection of the noncoronary sinus. 2020 BMES Virtual Annual Meeting. Jun 14-17, 2020.
+C13. H. Dong, **M. Liu**, T. Qin, B. Ziganshin, H. Ellauzi, J.A. Elefteriades, and W. Sun. Patient-specific finite element analysis of ascending aortic aneurysms with operation of V-shaped resection of the noncoronary sinus. *2020 BMES Virtual Annual Meeting*. Jun 14-17, 2020.
 
 C12. H. Dong, **M. Liu**, C. Martin, and W. Sun.A residual stiffness-based damage model for biological collagenous tissues under long-term cyclic-loading. *2020 ASME Summer Biomechanics Bioengineering and Biotransport Conference* (SB3C 2020). Virtual Conference, June 17-20, 2020.
 
