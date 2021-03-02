@@ -57,6 +57,7 @@ Teaching
   
 Awards and Honors
 ------
+* Georgia Tech Sigma Xi Best Ph.D. Thesis Award, 2021
 * American Heart Association (AHA) Predoctoral Fellowship, 2019-2020
   * Award number: 19PRE34430060, Amount: $53,688
 * Ph.D. Competition Finalist, Summer Biomechanics Bioengineering and Biotransport Conference (SB3C), 2019
