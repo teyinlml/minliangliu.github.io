@@ -12,13 +12,17 @@ redirect_from:
 Education
 ------
 * Ph.D. in Mechanical Engineering, Georgia Institute of Technology, 2020
-  * Dissertation: Identification of *in vivo* material properties of ascending thoracic aortic aneurysm: towards noninvasive risk assessment.
+  * Dissertation: [Identification of *in vivo* material properties of ascending thoracic aortic aneurysm: towards noninvasive risk assessment.](https://smartech.gatech.edu/handle/1853/64152)
   * GPA: 4.0/4.0, Minor: Machine Learning and Optimization
 * B.Eng. in Mechatronic Engineering, Zhejiang University, 2015
   * GPA: 3.9/4.0
 
 Experience
 ------
+* Jan 2021- now: Postdoctoral Fellow
+  * Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University
+  * PI: [Dr. Wei Sun](https://bme.gatech.edu/bme/faculty/Wei-Sun)
+
 * Aug 2015- Dec 2020: Graduate Research Assistant
   * Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University
   * PI: [Dr. Wei Sun](https://bme.gatech.edu/bme/faculty/Wei-Sun)
@@ -62,6 +66,17 @@ Awards and Honors
   * Award number: 19PRE34430060, Amount: $53,688
 * Ph.D. Competition Finalist, Summer Biomechanics Bioengineering and Biotransport Conference (SB3C), 2019
 * Scholarships, Zhejiang University, 2014
+
+Service
+------
+* 2021, Reviewer, *Bioengineering* Journal, Multidisciplinary Digital Publishing Institute (MDPI)
+* 2021, Reviewer, *International Journal for Numerical Methods in Biomedical Engineering*, Wiley
+* 2021, Reviewer, *Remote Sensing* Journal, Multidisciplinary Digital Publishing Institute (MDPI)
+* 2021, Reviewer, *2021 Summer Biomechanics, Bioengineering, and Biotransport Conference* (SB3C 2021)
+* 2021, Reviewer, *Materials* Journal, Multidisciplinary Digital Publishing Institute (MDPI)
+* 2020, Reviewer, *Sensors* Journal, Multidisciplinary Digital Publishing Institute (MDPI)
+* 2020, Reviewer, President’s Undergraduate Research Award (PURA), Georgia Institute of Technology
+* 2019, Judge, BS Level Paper Competition, American Society of Mechanical Engineers (ASME) Bioengineering Division (BED)
 
 Patents
 ------
