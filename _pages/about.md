@@ -17,6 +17,7 @@ My research interests include:
 * Experimental characterization and constitutive modeling of cardiovascular tissues.
 * Uncertainty quantification in computational biomechanics
 
+
 News
 ===============
 **3/2/2021** I received the [2021 Georgia Tech Sigma Xi Best Ph.D. Thesis Award](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/283/files/2021/03/2021-Sigma-Xi-Research-Award-Winners.final_.pdf)! [[Georgia Tech BME News](https://www.bme.gatech.edu/bme/sigma-xi-honors-voit-mitchell-impactful-research-2021-awards)]
