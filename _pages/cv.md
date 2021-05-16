@@ -12,7 +12,7 @@ redirect_from:
 Education
 ------
 * Ph.D. in Mechanical Engineering, Georgia Institute of Technology, 2020
-  * Dissertation: [Identification of *in vivo* material properties of ascending thoracic aortic aneurysm: towards noninvasive risk assessment](https://smartech.gatech.edu/handle/1853/64152), [2021 Georgia Tech Sigma Xi Best Ph.D. Thesis Award](https://sigmaxi.gatech.edu/recent-award-receipients/)
+  * Dissertation: [Identification of *in vivo* material properties of ascending thoracic aortic aneurysm: towards noninvasive risk assessment](https://smartech.gatech.edu/handle/1853/64152) [[2021 Georgia Tech Sigma Xi Best Ph.D. Thesis Award](https://sigmaxi.gatech.edu/recent-award-receipients/)]
   * GPA: 4.0/4.0, Minor: Machine Learning and Optimization
 * B.Eng. in Mechatronic Engineering, Zhejiang University, 2015
   * GPA: 3.9/4.0
@@ -43,7 +43,7 @@ Teaching Experience
   
 Awards and Honors
 ------
-* [Georgia Tech Sigma Xi Best Ph.D. Thesis Award](https://sigmaxi.gatech.edu/recent-award-receipients/), 2021 [Georgia Tech BME News](https://www.bme.gatech.edu/bme/sigma-xi-honors-voit-mitchell-impactful-research-2021-awards)
+* [Georgia Tech Sigma Xi Best Ph.D. Thesis Award](https://sigmaxi.gatech.edu/recent-award-receipients/), 2021 [[Georgia Tech BME News](https://www.bme.gatech.edu/bme/sigma-xi-honors-voit-mitchell-impactful-research-2021-awards)]
 * American Heart Association (AHA) Predoctoral Fellowship, 2019-2020
   * Award number: 19PRE34430060, Amount: $53,688
 * Ph.D. Competition Finalist, Summer Biomechanics Bioengineering and Biotransport Conference (SB3C), 2019
