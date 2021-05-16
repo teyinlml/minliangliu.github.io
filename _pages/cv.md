@@ -39,7 +39,7 @@ Teaching Experience
   
 Awards and Honors
 ------
-* [Georgia Tech Sigma Xi Best Ph.D. Thesis Award](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/283/files/2021/03/2021-Sigma-Xi-Research-Award-Winners.final_.pdf), 2021 [[Georgia Tech BME News](https://www.bme.gatech.edu/bme/sigma-xi-honors-voit-mitchell-impactful-research-2021-awards)]
+* [Georgia Tech Sigma Xi Best Ph.D. Thesis Award](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/283/files/2021/03/2021-Sigma-Xi-Research-Award-Winners.final_.pdf), 2021 [[Georgia Tech ME Twitter](https://twitter.com/MEGeorgiaTech/status/1367938343640707077), [Georgia Tech BME News](https://www.bme.gatech.edu/bme/sigma-xi-honors-voit-mitchell-impactful-research-2021-awards)]
 * American Heart Association (AHA) Predoctoral Fellowship, 2019-2020
   * Award number: 19PRE34430060, Amount: $53,688
 * Ph.D. Competition Finalist, Summer Biomechanics Bioengineering and Biotransport Conference (SB3C), 2019
