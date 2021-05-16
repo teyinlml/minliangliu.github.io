@@ -21,19 +21,15 @@ Experience
 ------
 * Jan 2021- now: Postdoctoral Fellow
   * Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University
-  * PI: [Dr. Wei Sun](https://bme.gatech.edu/bme/faculty/Wei-Sun)
 
 * Aug 2015- Dec 2020: Graduate Research Assistant
   * Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University
-  * PI: [Dr. Wei Sun](https://bme.gatech.edu/bme/faculty/Wei-Sun)
 
 * Dec 2014- Jun 2015: Undergraduate Researcher
   * School of Mechanical Engineering, Zhejiang University
-  * PI: [Dr. Jin Xie](https://person.zju.edu.cn/en/xiejin)
 
 * Jul 2014- Aug 2014: Visiting Research Student
   * Walker Department of Mechanical Engineering, The University of Texas at Austin
-  * PI: [Dr. Donglei "Emma" Fan](https://www.me.utexas.edu/faculty/faculty-directory/fan)
 
 Teaching Experience
 ------
