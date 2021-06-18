@@ -62,6 +62,7 @@ C17. **M. Liu**, L. Liang, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P
 
 C16. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, and W. Sun. Engineering analysis of aortic wall stress and root dilation in the V-shape surgery for ascending aortic aneurysms. *Summer Biomechanics, Bioengineering, and Biotransport Conference 2021* (SB3C 2021). June 14-18, 2021.
 
+C15. **M. Liu**, L. Liang, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A novel biomechanical risk index for ascending thoracic aortic aneurysm. *American Association for Thoracic Surgery (AATS) Annual Meeting 2021*. April 30 - May 2, 2021.
 
 C14. **M. Liu**, L. Liang, and W. Sun. A generic constitutive framework for soft biological tissues based on physics-informed neural network. *2020 BMES Virtual Annual Meeting*. Jun 14-17, 2020.
 
