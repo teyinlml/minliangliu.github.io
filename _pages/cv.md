@@ -49,7 +49,7 @@ Professional Experience & Service
 ------
 * Participated grant proposal writing "Risk stratification of uncomplicated type B aortic dissection using clinical and engineering analysis" NIH R01 $2M/4 years. Percentile: 9%. Contributions include assisting with designing the study, writing/editing all three specific aims, generating preliminary data, and writing/editing rebuttal for resubmission. PIs: Wei Sun and Bradley G. Leshnower
 * Wrote grant proposal "A novel computational framework for estimation of in vivo material properties of the aortic wall from 3D CT images" AHA Predoctoral Fellowship $53,688. Submission includes a 5-page research plan, applicant's NIH biographical sketch, sponsor and co-sponsor's supporting documents (training plan, research environment, NIH biographical sketch, and past trainees), and reference reports. PI: Minliang Liu
-* Journal Reviewer for *Cardiovascular Engineering and Technology*, *Bioengineering*, *International Journal for Numerical Methods in Biomedical Engineering*, *Remote Sensing*, *Materials*, *Sensors*
+* Journal Reviewer for *Acta Biomaterialia*, *Computer Methods in Biomechanics and Biomedical Engineering*, *Frontiers in Physiology*, *Cardiovascular Engineering and Technology*, *Bioengineering*, *International Journal for Numerical Methods in Biomedical Engineering*, *Remote Sensing*, *Materials*, *Sensors*
 * Reviewer for 2021 Summer Biomechanics, Bioengineering, and Biotransport Conference (SB3C 2021), 2020 President’s Undergraduate Research Award (PURA), 2019 American Society of Mechanical Engineers (ASME) Bioengineering Division (BED) BS Level Paper Competition
 * Member of American Society of Mechanical Engineers (ASME), American Heart Association (AHA), Biomedical Engineering Society (BMES)
 
@@ -87,6 +87,8 @@ P2. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S
 
 Journal Publications
 ------
+J17. **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A probabilistic and anisotropic failure metric for ascending thoracic aortic aneurysm risk assessment. *Journal of the Mechanics and Physics of Solids*. Accepted.
+
 J16. **M. Liu**, L. Liang, and W. Sun. A generic physics-informed neural network-based constitutive model for soft biological tissues. *Computer Methods in Applied Mechanics and Engineering* 2020; 372, 113402. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782520305879)]
 
 J15. **M. Liu**, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, and W. Sun. A novel anisotropic failure criterion with dispersed fiber orientations for aortic tissues. *Journal of Biomechanical Engineering* 2020; 142 (11). [[Link](https://asmedigitalcollection.asme.org/biomechanical/article/142/11/111002/1086084/A-Novel-Anisotropic-Failure-Criterion-With)]
@@ -121,6 +123,16 @@ J1. J. Zhao, **M. Liu (Co-first Author)**, L. Liang, W. Wang, and J. Xie. Airbor
 
 Conference Publications
 ------
+C19. D. H. Pak, **M. Liu**, T. Kim, L. Liang, R. McKay, W. Sun, and J. S. Duncan. Distortion Energy for Deep Learning-based Volumetric Finite Element Mesh Generation for Aortic Valves. *The 24th International Conference on Medical Imaging Computing & Computer Assisted Intervention 2021* (MICCAI 2021). Accepted. (full-length)
+
+C18. D. H. Pak, **M. Liu**, S. S. Ahn, A. Caballero, J. A. Onofrey, L. Liang, W. Sun, and J. S. Duncan. Weakly Supervised Deep Learning for Aortic Valve Finite Element Mesh Generation from 3D CT Images. *Information Processing in Medical Imaging 2021* (IPMI 2021). Accepted. (full-length)
+
+C17. **M. Liu**, L. Liang, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A probabilistic and anisotropic failure metric for risk assessment of ascending thoracic aortic aneurysm. *Summer Biomechanics, Bioengineering, and Biotransport Conference 2021* (SB3C 2021). June 14-18, 2021.
+
+C16. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, and W. Sun. Engineering analysis of aortic wall stress and root dilation in the V-shape surgery for ascending aortic aneurysms. *Summer Biomechanics, Bioengineering, and Biotransport Conference 2021* (SB3C 2021). June 14-18, 2021.
+
+C15. **M. Liu**, L. Liang, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A novel biomechanical risk index for ascending thoracic aortic aneurysm. *American Association for Thoracic Surgery (AATS) Annual Meeting 2021*. April 30 - May 2, 2021.
+
 C14. **M. Liu**, L. Liang, and W. Sun. A generic constitutive framework for soft biological tissues based on physics-informed neural network. *2020 BMES Virtual Annual Meeting*. Jun 14-17, 2020.
 
 C13. H. Dong, **M. Liu**, T. Qin, B. Ziganshin, H. Ellauzi, J.A. Elefteriades, and W. Sun. Patient-specific finite element analysis of ascending aortic aneurysms with operation of V-shaped resection of the noncoronary sinus. *2020 BMES Virtual Annual Meeting*. Jun 14-17, 2020.
@@ -147,4 +159,4 @@ C3. K. Kim, Z. Liang, **M. Liu**, and D.E. Fan. High-performance rotary micromac
 
 C2. K. Kim, **M. Liu**, and D.E. Fan. Bioinspired Rotary Micromachines for Microfluidic Applications. *ASME 2016 5th Global Congress on NanoEngineering for Medicine and Biology* (NEMB 2016). Houston, TX, Feb 21-24, 2016.
 
-C1. J. Zhao, **M. Liu**, W. Wang, and J. Xie. Airborne particulate matter classification and concentration detection based on 3D printed virtual impactor and quartz crystal microbalance sensor. *The 29th IEEE International Conference on. Micro Electro Mechanical Systems* (MEMS 2016). Shanghai, China, Jan 24-28, 2016. [[Link](https://ieeexplore.ieee.org/abstract/document/7421756)]
+C1. J. Zhao, **M. Liu**, W. Wang, and J. Xie. Airborne particulate matter classification and concentration detection based on 3D printed virtual impactor and quartz crystal microbalance sensor. *The 29th IEEE International Conference on. Micro Electro Mechanical Systems* (MEMS 2016). Shanghai, China, Jan 24-28, 2016. (full-length) [[Link](https://ieeexplore.ieee.org/abstract/document/7421756)]
