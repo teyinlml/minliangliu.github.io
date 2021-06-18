@@ -20,6 +20,12 @@ My research interests include:
 
 News
 ===============
+**6/18/2021** I attended the SB3C 2021 and gave a talk on a new probabilistic and anisotropic failure index for the aortic wall.
+
+**6/12/2021** New paper "A probabilistic and anisotropic failure metric for ascending thoracic aortic aneurysm risk assessment" is accepted by *Journal of the Mechanics and Physics of Solids*.
+
+**5/18/2021** I serve as a section editor of the journal *Medicine in Novel Technology and Devices*.
+
 **3/2/2021** I received the [2021 Georgia Tech Sigma Xi Best Ph.D. Thesis Award](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/283/files/2021/03/2021-Sigma-Xi-Research-Award-Winners.final_.pdf)! [[Georgia Tech ME Twitter](https://twitter.com/MEGeorgiaTech/status/1367938343640707077), [Georgia Tech BME News](https://www.bme.gatech.edu/bme/sigma-xi-honors-voit-mitchell-impactful-research-2021-awards)]
 
 **8/27/2020** New paper "A generic physics-informed neural network-based constitutive model for soft biological tissues" is accepted by *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782520305879)]
