@@ -52,6 +52,15 @@ J1. J. Zhao, **M. Liu (Co-first Author)**, L. Liang, W. Wang, and J. Xie. Airbor
 
 Conference Publications
 ------
+C19. D. H. Pak, **M. Liu**, T. Kim, L. Liang, R. McKay, W. Sun, and J. S. Duncan. Distortion Energy for Deep Learning-based Volumetric Finite Element Mesh Generation for Aortic Valves. *The 24th International Conference on Medical Imaging Computing & Computer Assisted Intervention 2021* (MICCAI 2021). Accepted. (full-length)
+
+C18. D. H. Pak, **M. Liu**, S. S. Ahn, A. Caballero, J. A. Onofrey, L. Liang, W. Sun, and J. S. Duncan. Weakly Supervised Deep Learning for Aortic Valve Finite Element Mesh Generation from 3D CT Images. *Information Processing in Medical Imaging 2021* (IPMI 2021). Accepted. (full-length)
+
+C17. **M. Liu**, L. Liang, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A probabilistic and anisotropic failure metric for risk assessment of ascending thoracic aortic aneurysm. *Summer Biomechanics, Bioengineering, and Biotransport Conference 2021* (SB3C 2021). June 14-18, 2021.
+
+C16. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, and W. Sun. Engineering analysis of aortic wall stress and root dilation in the V-shape surgery for ascending aortic aneurysms. *Summer Biomechanics, Bioengineering, and Biotransport Conference 2021* (SB3C 2021). June 14-18, 2021.
+
+
 C14. **M. Liu**, L. Liang, and W. Sun. A generic constitutive framework for soft biological tissues based on physics-informed neural network. *2020 BMES Virtual Annual Meeting*. Jun 14-17, 2020.
 
 C13. H. Dong, **M. Liu**, T. Qin, B. Ziganshin, H. Ellauzi, J.A. Elefteriades, and W. Sun. Patient-specific finite element analysis of ascending aortic aneurysms with operation of V-shaped resection of the noncoronary sinus. *2020 BMES Virtual Annual Meeting*. Jun 14-17, 2020.
