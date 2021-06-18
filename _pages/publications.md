@@ -90,4 +90,4 @@ C3. K. Kim, Z. Liang, **M. Liu**, and D.E. Fan. High-performance rotary micromac
 
 C2. K. Kim, **M. Liu**, and D.E. Fan. Bioinspired Rotary Micromachines for Microfluidic Applications. *ASME 2016 5th Global Congress on NanoEngineering for Medicine and Biology* (NEMB 2016). Houston, TX, Feb 21-24, 2016.
 
-C1. J. Zhao, **M. Liu**, W. Wang, and J. Xie. Airborne particulate matter classification and concentration detection based on 3D printed virtual impactor and quartz crystal microbalance sensor. *The 29th IEEE International Conference on. Micro Electro Mechanical Systems* (MEMS 2016). Shanghai, China, Jan 24-28, 2016. [[Link](https://ieeexplore.ieee.org/abstract/document/7421756)]
+C1. J. Zhao, **M. Liu**, W. Wang, and J. Xie. Airborne particulate matter classification and concentration detection based on 3D printed virtual impactor and quartz crystal microbalance sensor. *The 29th IEEE International Conference on. Micro Electro Mechanical Systems* (MEMS 2016). Shanghai, China, Jan 24-28, 2016. (full-length) [[Link](https://ieeexplore.ieee.org/abstract/document/7421756)]
