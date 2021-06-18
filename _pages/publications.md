@@ -18,6 +18,8 @@ P2. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S
 
 Journal Publications
 ------
+J17. **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A probabilistic and anisotropic failure metric for ascending thoracic aortic aneurysm risk assessment. *Journal of the Mechanics and Physics of Solids*. Accepted.
+
 J16. **M. Liu**, L. Liang, and W. Sun. A generic physics-informed neural network-based constitutive model for soft biological tissues. *Computer Methods in Applied Mechanics and Engineering* 2020; 372, 113402. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782520305879)]
 
 J15. **M. Liu**, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, and W. Sun. A novel anisotropic failure criterion with dispersed fiber orientations for aortic tissues. *Journal of Biomechanical Engineering* 2020; 142 (11). [[Link](https://asmedigitalcollection.asme.org/biomechanical/article/142/11/111002/1086084/A-Novel-Anisotropic-Failure-Criterion-With)]
