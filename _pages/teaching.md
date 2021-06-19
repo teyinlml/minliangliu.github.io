@@ -102,7 +102,7 @@ C2. A probabilistic and anisotropic failure metric based on the Tsai-Hill theory
 <img src="https://minliangliu.github.io//images/FP.PNG" width="694" height="271" />
 </p>
 
-* **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. 2020. *bioRxiv*. [[Link](https://www.biorxiv.org/content/10.1101/2020.09.28.317255v1.abstract)]
+* **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. 2021. *Journal of the Mechanics and Physics of Solids*. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S002250962100199X?via%3Dihub)]
 
 D. Modeling of time-dependent tissue property changes
 ------
