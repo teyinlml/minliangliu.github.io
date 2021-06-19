@@ -22,7 +22,7 @@ News
 ===============
 **6/18/2021** I attended the SB3C 2021 and gave a talk on a new probabilistic and anisotropic failure index for the aortic wall.
 
-**6/12/2021** New paper "A probabilistic and anisotropic failure metric for ascending thoracic aortic aneurysm risk assessment" is accepted by *Journal of the Mechanics and Physics of Solids*. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S002250962100199X?via%3Dihub]
+**6/12/2021** New paper "A probabilistic and anisotropic failure metric for ascending thoracic aortic aneurysm risk assessment" is accepted by *Journal of the Mechanics and Physics of Solids*. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S002250962100199X?via%3Dihub)]
 
 **5/18/2021** I serve as a section editor of the journal *Medicine in Novel Technology and Devices*.
 
