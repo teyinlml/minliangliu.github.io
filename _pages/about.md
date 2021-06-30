@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Postdoctoral Fellow in the [Tissue Mechanics Lab](http://www.tml.gatech.edu/) at the Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University. I received a Ph.D. degree in Mechanical Engineering from Georgia Institute of Technology, in 2020. Previously, I received a B.Eng. degree in Mechatronic Engineering from Zhejiang University, in 2015.
+I am currently working as a Postdoctoral Fellow at the Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University. I received a Ph.D. degree in Mechanical Engineering from Georgia Institute of Technology, in 2020. Previously, I received a B.Eng. degree in Mechatronic Engineering from Zhejiang University, in 2015.
 
 My research interests include:
 * Machine learning applications in biomechanics.
