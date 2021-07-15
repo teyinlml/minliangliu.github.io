@@ -82,13 +82,11 @@ P1. J. Xie, J. Zhao, R. Zhao, and **M. Liu**. *CN Patent CN105,651,643 A*. [[Lin
 
 Preprints
 ------
-P1. **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A probabilistic and anisotropic failure metric for ascending thoracic aortic aneurysm risk stratification. *bioRxiv*. [[Link](https://www.biorxiv.org/content/10.1101/2020.09.28.317255v1.abstract)]
-
-P2. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, and W. Sun. Engineering analysis of aortic wall stress in the surgery of V-shape resection of the noncoronary sinus. *medRxiv*. [[Link](https://www.medrxiv.org/content/10.1101/2020.12.02.20239475v1)]
+P1. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, and W. Sun. Engineering analysis of aortic wall stress in the surgery of V-shape resection of the noncoronary sinus. *medRxiv*. [[Link](https://www.medrxiv.org/content/10.1101/2020.12.02.20239475v1)]
 
 Journal Publications
 ------
-J17. **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A probabilistic and anisotropic failure metric for ascending thoracic aortic aneurysm risk assessment. *Journal of the Mechanics and Physics of Solids*. Accepted. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S002250962100199X?via%3Dihub)]
+J17. **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A probabilistic and anisotropic failure metric for ascending thoracic aortic aneurysm risk assessment. *Journal of the Mechanics and Physics of Solids* 2021; 155,104539. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S002250962100199X?via%3Dihub)]
 
 J16. **M. Liu**, L. Liang, and W. Sun. A generic physics-informed neural network-based constitutive model for soft biological tissues. *Computer Methods in Applied Mechanics and Engineering* 2020; 372, 113402. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782520305879)]
 
