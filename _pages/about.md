@@ -20,7 +20,7 @@ My research interests include:
 
 News
 ===============
-**8/21/2021** New paper "Computation of a probabilistic and anisotropic failure metric on the aortic wall using a machine learning-based surrogate model" is accepted by *Computers in Biology and Medicine*.
+**8/21/2021** New paper "Computation of a probabilistic and anisotropic failure metric on the aortic wall using a machine learning-based surrogate model" is accepted by *Computers in Biology and Medicine*. [[Link](https://www.sciencedirect.com/science/article/pii/S0010482521005886?via%3Dihub)]
 
 **6/18/2021** I attended the SB3C 2021 and gave a talk on a new probabilistic and anisotropic failure index for the aortic wall.
 
