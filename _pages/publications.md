@@ -16,7 +16,7 @@ P1. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S
 
 Journal Publications
 ------
-J18. **M. Liu**, L. Liang, Y. Ismail, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. Computation of a probabilistic and anisotropic failure metric on the aortic wall using a machine learning-based surrogate model. *Computers in Biology and Medicine*; Accepted.
+J18. **M. Liu**, L. Liang, Y. Ismail, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. Computation of a probabilistic and anisotropic failure metric on the aortic wall using a machine learning-based surrogate model. *Computers in Biology and Medicine*; Accepted.[[Link](https://www.sciencedirect.com/science/article/pii/S0010482521005886?via%3Dihub)]
 
 J17. **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A probabilistic and anisotropic failure metric for ascending thoracic aortic aneurysm risk assessment. *Journal of the Mechanics and Physics of Solids* 2021; 155,104539. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S002250962100199X?via%3Dihub)]
 
