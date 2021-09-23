@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Postdoctoral Fellow at the [[Wallace H. Coulter Department of Biomedical Engineering](https://bme.gatech.edu/bme/)], Georgia Institute of Technology and Emory University. I received my Ph.D. degree in Mechanical Engineering from [[Georgia Institute of Technology](https://www.gatech.edu/)], in 2020. Previously, I received a B.Eng. degree in Mechatronic Engineering from [[Zhejiang University](https://www.zju.edu.cn/english/)], in 2015.
+I am currently working as a Postdoctoral Fellow at the [Wallace H. Coulter Department of Biomedical Engineering](https://bme.gatech.edu/bme/), Georgia Institute of Technology and Emory University. I received my Ph.D. degree in Mechanical Engineering from [Georgia Institute of Technology](https://www.gatech.edu/), in 2020. Previously, I received a B.Eng. degree in Mechatronic Engineering from [Zhejiang University](https://www.zju.edu.cn/english/), in 2015.
 
 My research interests lie primarily in the area of constitutive modeling for soft fibrous tissues:
 * Machine learning surrogate models for fast computational analysis;
