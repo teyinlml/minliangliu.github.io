@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Postdoctoral Fellow at the Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University. I received a Ph.D. degree in Mechanical Engineering from Georgia Institute of Technology, in 2020. Previously, I received a B.Eng. degree in Mechatronic Engineering from Zhejiang University, in 2015.
+I am currently working as a Postdoctoral Fellow at the Wallace H. Coulter Department of Biomedical Engineering, <ins>text</ins> Georgia Institute of Technology and Emory University. I received a Ph.D. degree in Mechanical Engineering from Georgia Institute of Technology, in 2020. Previously, I received a B.Eng. degree in Mechatronic Engineering from Zhejiang University, in 2015.
 
 My research interests include:
-* Machine learning applications in biomechanics.
-* Identification of constitutive parameters by solving inverse problems.
-* Computational patient-specific cardiovascular modeling.
-* Experimental characterization and constitutive modeling of cardiovascular tissues.
-* Uncertainty quantification in computational biomechanics
+* Machine learning surrogate models for fast computational analysis;
+* Patient-specific modeling of arterial growth and remodeling;
+* Physics-informed machine learning for constitutive modeling and personalized computation;
+* Inverse identification of in vivo constitutive parameters from clinical images;
+* Patient-specific computational modeling of cardiovascular interventions;
+* Experimental characterization and modeling of the mechanical behavior of cardiovascular tissues.
 
 
 News
