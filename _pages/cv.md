@@ -124,9 +124,9 @@ J1. J. Zhao, **M. Liu (Co-first Author)**, L. Liang, W. Wang, and J. Xie. Airbor
 
 Conference Publications
 ------
-C19. D. H. Pak, **M. Liu**, T. Kim, L. Liang, R. McKay, W. Sun, and J. S. Duncan. Distortion Energy for Deep Learning-based Volumetric Finite Element Mesh Generation for Aortic Valves. *The 24th International Conference on Medical Imaging Computing & Computer Assisted Intervention 2021* (MICCAI 2021). (full-length) [[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_47)]
+C19. D. H. Pak, **M. Liu**, T. Kim, L. Liang, R. McKay, W. Sun, and J. S. Duncan. Distortion Energy for Deep Learning-based Volumetric Finite Element Mesh Generation for Aortic Valves. *The 24th International Conference on Medical Imaging Computing & Computer Assisted Intervention 2021* (MICCAI 2021). Strasbourg, France, September 27–October 1, 2021. (full-length) [[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_47)]
 
-C18. D. H. Pak, **M. Liu**, S. S. Ahn, A. Caballero, J. A. Onofrey, L. Liang, W. Sun, and J. S. Duncan. Weakly Supervised Deep Learning for Aortic Valve Finite Element Mesh Generation from 3D CT Images. *Information Processing in Medical Imaging 2021* (IPMI 2021). (full-length) [[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-78191-0_49)]
+C18. D. H. Pak, **M. Liu**, S. S. Ahn, A. Caballero, J. A. Onofrey, L. Liang, W. Sun, and J. S. Duncan. Weakly Supervised Deep Learning for Aortic Valve Finite Element Mesh Generation from 3D CT Images. *Information Processing in Medical Imaging 2021* (IPMI 2021). June 28th – June 30th, 2021. (full-length) [[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-78191-0_49)]
 
 C17. **M. Liu**, L. Liang, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A probabilistic and anisotropic failure metric for risk assessment of ascending thoracic aortic aneurysm. *Summer Biomechanics, Bioengineering, and Biotransport Conference 2021* (SB3C 2021). June 14-18, 2021.
 
