@@ -53,7 +53,7 @@ B1. A multi-resolution direction search (MRDS) approach based on finite element 
 * **M. Liu**, L. Liang, and W. Sun. 2018. *Journal of the Mechanical Behavior of Biomedical Materials*. [[Link](https://www.sciencedirect.com/science/article/pii/S1751616117304502)]
 
 B2. Transmural mean stress of the aortic wall can be obtained without patient-specific material properties and residual deformations.
-* We demonstrated that the transmural mean stress can be readily obtained from *in vivo* clinical images without knowing the patient-specific material properties and residual deformations. Computation of patient-specific mean stress can be greatly simplified by using statical determinacy, which may be clinically valuable.
+* We demonstrated that the transmural mean stress can be readily obtained from *in vivo* clinical images without knowing the patient-specific material properties and residual deformations. Computation of patient-specific mean stress can be greatly simplified by using statical determinacy.
 
 <p align="center">
 <img src="https://minliangliu.github.io//images/SD.PNG" width="725" height="246" />
