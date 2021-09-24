@@ -32,7 +32,7 @@ A3. Direct identification of *in vivo* constitutive parameters from aorta geomet
 
 * **M. Liu**, L. Liang, and W. Sun. 2019. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782518306297)]
 
-A4. Recovering the unloaded configuration from *in vivo* loaded geometries.
+A4. Recovering the unloaded configuration of the aorta from *in vivo* loaded geometries.
 * L. Liang, **M. Liu**, C. Martin, and W. Sun. 2018. *International Journal for Numerical Methods in Biomedical Engineering*. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.3103)]
 
 A5. Direct computation of failure metric on the aortic wall, bypassing inverse and forward computation steps.
