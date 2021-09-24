@@ -97,7 +97,7 @@ C2. Estimating tissue stress-strain responses from microscopy images by using de
 
 D. Anisotropic failure criterion and probabilistic failure metric of the aortic wall
 ------
-We developed a fiber-based failure criterion and a probabilistic and anisotropic failure index for aortic tissues. The new failure criterion was specifically proposed to capture the ansiotropy of the failure properties. Since there is no way to obatin *in vivo* wall strengths, we developed a probabilistic failure metric to incorporate the uncertainties of the wall strength distributions. These novel failure models can be used for noninvasive risk assessment of thoracic aortic aneurysms.
+We developed a fiber-based failure criterion and a probabilistic and anisotropic failure index for aortic tissues. The new failure criterion was specifically proposed to capture the ansiotropy of the failure properties. Since the wall strengths can only be accurately obtained using destructive and invasive means, we developed a probabilistic failure metric to incorporate the uncertainties of the wall strength distributions. These novel failure models can be used for noninvasive risk assessment of thoracic aortic aneurysms.
 
 D1. A novel anisotropic failure criterion with distributed fiber orientations.
 * We proposed a novel stress-based anisotropic failure criterion with dispersed fiber orientations. In the new failure criterion, the overall failure metric is computed by using angular integration (AI) of failure metrics in all directions. Affine rotations of fiber orientations due to finite deformation are taken into account in an anisotropic hyperelastic constitutive model.
