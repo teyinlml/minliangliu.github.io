@@ -81,7 +81,7 @@ C. Learning soft tissue constitutive behaviors via deep neural networks
 ------
 We established deep neural networks as an alternative to model constitutive behaviors of soft tissues. These deep neural network models incorporate physical or microstructural knowledge of soft tissues and have led to performance improvements that could not be achieved by traditional constitutive models. 
 
-C1. Generic constitutive models of soft tissues enabled by physics-informed learning.
+C1. A generic constitutive model of soft tissues enabled by physics-informed learning.
 * We developed a novel generic physics-informed neural network material (NNMat) model which employs a hierarchical learning strategy and a novel neural network structure: (1) a class parameter set for characterizing the general elastic properties; and (2) a subject parameter set (three parameters) for describing individual material response. The trained NNMat model may be directly adopted for a different subject without re-training the class parameters, and only the subject parameters are considered as constitutive parameters. Skip connections are utilized in the neural network to facilitate hierarchical learning. A convexity constraint was imposed to the NNMat model to ensure that the constitutive model is physically relevant.
 
 <p align="center">
