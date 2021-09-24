@@ -88,10 +88,10 @@ C1. Generic constitutive models of soft tissues enabled by physics-informed lear
 <img src="https://minliangliu.github.io//images/NNMat.PNG" width="581" height="344" />
 </p>
 
+* **M. Liu**, L. Liang, and W. Sun. 2020. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782520305879)]
+
 C2. Estimating tissue stress-strain responses from microscopy images by using deep convolutional neural networks.
 * L. Liang, **M. Liu**, and W. Sun. 2017. *Acta Biomaterialia*. [[Link](https://www.sciencedirect.com/science/article/pii/S1742706117305883)]
-
-* **M. Liu**, L. Liang, and W. Sun. 2020. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782520305879)]
 
 D. Anisotropic failure criterion and probabilistic failure metric of the aortic wall
 ------
