@@ -124,7 +124,7 @@ J1. J. Zhao, **M. Liu (Co-first Author)**, L. Liang, W. Wang, and J. Xie. Airbor
 
 Conference Publications
 ------
-C19. D. H. Pak, **M. Liu**, T. Kim, L. Liang, R. McKay, W. Sun, and J. S. Duncan. Distortion Energy for Deep Learning-based Volumetric Finite Element Mesh Generation for Aortic Valves. *The 24th International Conference on Medical Imaging Computing & Computer Assisted Intervention 2021* (MICCAI 2021). Accepted. (full-length)
+C19. D. H. Pak, **M. Liu**, T. Kim, L. Liang, R. McKay, W. Sun, and J. S. Duncan. Distortion Energy for Deep Learning-based Volumetric Finite Element Mesh Generation for Aortic Valves. *The 24th International Conference on Medical Imaging Computing & Computer Assisted Intervention 2021* (MICCAI 2021). (full-length) [[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_47)]
 
 C18. D. H. Pak, **M. Liu**, S. S. Ahn, A. Caballero, J. A. Onofrey, L. Liang, W. Sun, and J. S. Duncan. Weakly Supervised Deep Learning for Aortic Valve Finite Element Mesh Generation from 3D CT Images. *Information Processing in Medical Imaging 2021* (IPMI 2021). (full-length) [[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-78191-0_49)]
 
