@@ -39,7 +39,7 @@ A5. Direct computation of failure metric on the aortic wall, bypassing inverse a
 
 B. Inverse identification of *in vivo* hyperleastic properties of the aortic wall from clinical images
 ------
-I developed inverse methods to identify anisotropic hyperelastic material properties of the aortic wall from clinical images. The overall goal was to increase the computational efficiency towards clinical applications by emplying novel inverse identification strategies. These inverse identification methods can facilitate personalized computational modeling for the diagnosis and treatment of cardiovascular diseases.
+We developed inverse methods to identify anisotropic hyperelastic material properties of the aortic wall from clinical images. The overall goal was to increase the computational efficiency towards clinical applications by emplying novel inverse identification strategies. These inverse identification methods can facilitate personalized computational modeling for the diagnosis and treatment of cardiovascular diseases.
 
 B1. A multi-resolution direction search (MRDS) approach based on finite element updating scheme.
 * We proposed a novel MRDS approach for estimation of nonlinear anisotropic constitutive parameters of the aortic wall. Based on the finite element (FE) updating scheme, the MRDS approach searches the discretized principal component analysis (PCA) spaces at different resolutions in a ‘coarse to fine’ fashion. Our results show that the number of FE iterations was significantly reduced compared to previous methods.
@@ -79,6 +79,8 @@ B4. Comparison of *in vivo*-identified (from CT images) vs *ex vivo*-fitted (fro
 
 C. Learning soft tissue constitutive behaviors via deep neural networks
 ------
+We established deep neural networks as an alternative to model constitutive behaviors of soft tissues. These deep neural network models incorporate physical or microstructural knowledge of soft tissues and have led to performance improvements that could not be achieved by traditional constitutive models. 
+
 C1. Generic constitutive models of soft tissues enabled by physics-informed learning.
 * We developed a novel generic physics-informed neural network material (NNMat) model which employs a hierarchical learning strategy and a novel neural network structure: (1) a class parameter set for characterizing the general elastic properties; and (2) a subject parameter set (three parameters) for describing individual material response. The trained NNMat model may be directly adopted for a different subject without re-training the class parameters, and only the subject parameters are considered as constitutive parameters. Skip connections are utilized in the neural network to facilitate hierarchical learning. A convexity constraint was imposed to the NNMat model to ensure that the constitutive model is physically relevant.
 
@@ -91,8 +93,9 @@ C2. Estimating tissue stress-strain responses from microscopy images by using de
 
 * **M. Liu**, L. Liang, and W. Sun. 2020. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782520305879)]
 
-D. Anisotropic failure criteria and probabilistic failure metric of the aortic wall
+D. Anisotropic failure criterion and probabilistic failure metric of the aortic wall
 ------
+We developed a fiber-based failure criterion and a probabilistic and anisotropic failure index for aortic tissues. The new failure criterion was specifically proposed to capture the ansiotropy of the failure properties. Since there is no way to obatin *in vivo* wall strength, we developed a probabilistic failure metric to incorporate the uncertainties of the wall strength distributions. These novel failure models can be used for noninvasive risk assessment of ascending thoracic aortic aneurysm.
 
 D1. A novel anisotropic failure criterion with distributed fiber orientations.
 * We proposed a novel stress-based anisotropic failure criterion with dispersed fiber orientations. In the new failure criterion, the overall failure metric is computed by using angular integration (AI) of failure metrics in all directions. Affine rotations of fiber orientations due to finite deformation are taken into account in an anisotropic hyperelastic constitutive model.
