@@ -129,8 +129,8 @@ E2. Fatigue damage modeling of prosthetic heart valve tissues using a residual s
 F. Micro-sensors and actuators for health-related applications
 ------
 
-F1. A miniature airborne particulate matter sensor based on 3D printed virtual impactor and quartz crystal microbalance.
-* We designed and fabricated a miniature system for detection of airborne particulate matter (PM). To classify airborne particles according to their size, a virtual impactor is fabricated using 3D printing technology. A QCM resonant sensor is utilized to detect the mass of the separated particles. Experiments proved that the miniature sensor can montior PM concentrations in real-time.
+F1. A miniature airborne particulate matter sensor based on 3D printed virtual impactor and quartz crystal microbalance (QCM).
+* We designed and fabricated a miniature system for detection of airborne particulate matter (PM). To classify airborne particles according to their size, a virtual impactor is fabricated using 3D printing technology. A QCM resonant sensor is utilized to detect the mass of the separated particles. Experiments proved that the miniature system can montior PM concentrations in real-time.
 
 <p align="center">
 <img src="https://minliangliu.github.io//images/PM.PNG" width="445" height="328" />
