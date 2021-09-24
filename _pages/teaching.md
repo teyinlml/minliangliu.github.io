@@ -39,7 +39,7 @@ A5. Direct computation of failure metric on the aortic wall, bypassing inverse a
 
 B. Inverse identification of *in vivo* hyperleastic properties of the aortic wall from clinical images
 ------
-We developed inverse methods to identify anisotropic hyperelastic material properties of the aortic wall from clinical images. The overall goal was to increase the computational efficiency towards clinical applications by emplying novel inverse identification strategies. These inverse identification methods can facilitate personalized computational modeling for the diagnosis and treatment of cardiovascular diseases.
+We developed inverse methods to identify anisotropic hyperelastic material properties of the aortic wall from clinical images. The overall goal was to increase the computational efficiency towards clinical applications by employing novel inverse identification strategies. These inverse identification methods can facilitate personalized computational modeling for the diagnosis and treatment of cardiovascular diseases.
 
 B1. A multi-resolution direction search (MRDS) approach based on finite element updating scheme.
 * We proposed a novel MRDS approach for estimation of nonlinear anisotropic constitutive parameters of the aortic wall. Based on the finite element (FE) updating scheme, the MRDS approach searches the discretized principal component analysis (PCA) spaces at different resolutions in a ‘coarse to fine’ fashion. Our results show that the number of FE iterations was significantly reduced compared to previous methods.
