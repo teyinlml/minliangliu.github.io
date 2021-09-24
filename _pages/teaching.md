@@ -34,11 +34,12 @@ A4. Recovering the unloaded configuration from *in vivo* loaded geometries.
 * **M. Liu**, L. Liang, and W. Sun. 2019. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782518306297)]
 
 A5. Direct computation of failure metric on the aortic wall, bypassing inverse and forward computation steps.
-
+* **M. Liu**, L. Liang, Y. Ismail, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. *Computers in Biology and Medicine*. [[Link](https://www.sciencedirect.com/science/article/pii/S0010482521005886?via%3Dihub)]
 
 
 B. Inverse identification of *in vivo* hyperleastic properties of the aortic wall from clinical images
 ------
+I developed inverse methods to identify anisotropic hyperelastic material properties of the aortic wall from clinical images. The overall goal was to increase the computational efficiency towards clinical applications by emplying novel inverse identification strategies. These inverse identification methods can facilitate personalized computational modeling for the diagnosis and treatment of cardiovascular diseases.
 
 B1. A multi-resolution direction search (MRDS) approach based on finite element updating scheme.
 * We proposed a novel MRDS approach for estimation of nonlinear anisotropic constitutive parameters of the aortic wall. Based on the finite element (FE) updating scheme, the MRDS approach searches the discretized principal component analysis (PCA) spaces at different resolutions in a ‘coarse to fine’ fashion. Our results show that the number of FE iterations was significantly reduced compared to previous methods.
@@ -78,22 +79,22 @@ B4. Comparison of *in vivo*-identified (from CT images) vs *ex vivo*-fitted (fro
 
 C. Learning soft tissue constitutive behaviors via deep neural networks
 ------
-C1. A physics-informed neural network for constitutive modeling of soft biological tissues.
+C1. Generic constitutive models of soft tissues enabled by physics-informed learning.
 * We developed a novel generic physics-informed neural network material (NNMat) model which employs a hierarchical learning strategy and a novel neural network structure: (1) a class parameter set for characterizing the general elastic properties; and (2) a subject parameter set (three parameters) for describing individual material response. The trained NNMat model may be directly adopted for a different subject without re-training the class parameters, and only the subject parameters are considered as constitutive parameters. Skip connections are utilized in the neural network to facilitate hierarchical learning. A convexity constraint was imposed to the NNMat model to ensure that the constitutive model is physically relevant.
 
 <p align="center">
 <img src="https://minliangliu.github.io//images/NNMat.PNG" width="581" height="344" />
 </p>
 
-C2. A deep learning approach to estimate tissue nonlinear anisotropic stress-strain responses from microscopy images.
+C2. Estimating tissue stress-strain responses from microscopy images by using deep convolutional neural networks.
 * L. Liang, **M. Liu**, and W. Sun. 2017. *Acta Biomaterialia*. [[Link](https://www.sciencedirect.com/science/article/pii/S1742706117305883)]
 
 * **M. Liu**, L. Liang, and W. Sun. 2020. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782520305879)]
 
-C. Anisotropic failure criteria and probabilistic failure metric of the aortic wall
+D. Anisotropic failure criteria and probabilistic failure metric of the aortic wall
 ------
 
-C1. A novel anisotropic failure criterion with distributed fiber orientations.
+D1. A novel anisotropic failure criterion with distributed fiber orientations.
 * We proposed a novel stress-based anisotropic failure criterion with dispersed fiber orientations. In the new failure criterion, the overall failure metric is computed by using angular integration (AI) of failure metrics in all directions. Affine rotations of fiber orientations due to finite deformation are taken into account in an anisotropic hyperelastic constitutive model.
 
 <p align="center">
@@ -102,7 +103,7 @@ C1. A novel anisotropic failure criterion with distributed fiber orientations.
 
 * **M. Liu**, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, and W. Sun. 2020. *Journal of Biomechanical Engineering*. [[Link](https://asmedigitalcollection.asme.org/biomechanical/article/142/11/111002/1086084/A-Novel-Anisotropic-Failure-Criterion-With)]
 
-C2. A probabilistic and anisotropic failure metric based on the Tsai-Hill theory.
+D2. A probabilistic and anisotropic failure metric based on the Tsai-Hill theory.
 * We developed a novel probabilistic and anisotropic failure metric for ATAA risk assessment. Uniaxial tensile tests were performed using aortic tissue samples of 84 ATAA patients, from which a joint probability distribution of the anisotropic wall strengths was obtained. An anisotropic failure probability (FP) metric based on the Tsai-Hill (TH) failure criterion was subsequently derived. The novel FP metric, which incorporates uncertainty and anisotropy of failure properties, can be evaluated given wall stresses. For method validation, “ground-truth” risks of additional 41 ATAA patients were numerically-reconstructed using matching CT images and tissue testing data. 
 
 <p align="center">
@@ -111,19 +112,19 @@ C2. A probabilistic and anisotropic failure metric based on the Tsai-Hill theory
 
 * **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. 2021. *Journal of the Mechanics and Physics of Solids*. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S002250962100199X?via%3Dihub)]
 
-D. Modeling of time-dependent tissue property changes
+E. Modeling of tissue fatigue damage and growth
 ------
 
-D1. An Anisotropic volumetric growth approach for modeling of three-dimensional residual stress in the aortic wall.
+E1. Recovering three-dimensional residual stresses in the aortic wall via an anisotropic volumetric growth model.
 * H. Liu, M. Zhang, **M. Liu**, C. Martin, Z. Cai, and W. Sun. 2019. *Journal of the Mechanical Behavior of Biomedical Materials*. [[Link](https://www.sciencedirect.com/science/article/pii/S1751616118311664)]
 
-D2. Modeling fatigue damage of biological soft tissues using a residual stiffness-based model.
+E2. Fatigue damage modeling of prosthetic heart valve tissues using a residual stiffness-based model.
 * H. Dong, **M. Liu**, C. Martin, and W. Sun. 2020. *Journal of the Mechanics and Physics of Solids*. [[Link](https://www.sciencedirect.com/science/article/pii/S0022509620303082)]
 
-E. Micro-sensors and actuators for health-related applications
+F. Micro-sensors and actuators for health-related applications
 ------
 
-E1. An airborne particulate matter sensor based on 3D printed virtual impactor and quartz crystal microbalance.
+F1. A miniature airborne particulate matter sensor based on 3D printed virtual impactor and quartz crystal microbalance.
 * We designed and fabricated a miniature system for detection of airborne particulate matter (PM). To classify airborne particles according to their size, a virtual impactor is fabricated using three-dimensional (3D) printing process. A QCM resonant sensor is utilized to detect the mass of the separated particles. Experimental validations were performed which showed that the resonant frequency of the QCM turns downward linearly with the PM mass loading increasing.
 
 <p align="center">
@@ -132,5 +133,5 @@ E1. An airborne particulate matter sensor based on 3D printed virtual impactor a
 
 * J. Zhao, **M. Liu (Co-first Author)**, L. Liang, W. Wang, and J. Xie. 2016. *Sensors and Actuators A: Physical*. [[Link](https://www.sciencedirect.com/science/article/pii/S0924424715302788)]
 
-E2. Biobased high-performance rotary micromotors for individually reconfigurable micromachine arrays and microfluidic applications.
+F2. Biobased high-performance rotary micromotors for individually reconfigurable micromachine arrays and microfluidic applications.
 * K. Kim, Z. Liang, **M. Liu**, and D.E. Fan. 2017. *ACS Applied Materials & Interfaces*. [[Link](https://pubs.acs.org/doi/abs/10.1021/acsami.6b13997)]
