@@ -10,7 +10,7 @@ A. Machine learning surrogate models for fast computational analyses
 We developed a series of machine learning and deep learning approaches for surrogate modeling in cardiovascular simulations, these data-driven approaches can lead to fundamental improvements in computational efficiency, i.e., obtain accurate simulation results in real-time.
 
 A1. Predicting aneurysm rupture risk based on shape features.
-* We investigated the feasibility of a machine learning approach to establish the linkages between shape features and FEA-predicted ascending thoracic aortic aneurysm (ATAA) rupture risk, and it may serve as a faster surrogate for FEA associated with long simulation time and numerical convergence issues. The results show that statistical shape model (SSM) parameters can be used as strong shape features to make predictions of risk scores consistent with FEA. Compared to FEA, this machine learning approach is magnitudes faster.
+* We developed a machine learning approach to predict ascending thoracic aortic aneurysm (ATAA) rupture risk based on shape features. The results show that statistical shape model (SSM) parameters can be used as strong shape features to make predictions of risk scores consistent with finite element analysis (FEA)- a classical computational approach associated with long simulation time and numerical convergence issues. The machine learning model demonstrated its capabilities to bypass FEA and directly predict the FEA results in <1 second. This was the first published study that bridged machine learning and biomechanics for surrogate modeling.
 
 <p align="center">
   <img src="https://minliangliu.github.io//images/PRR.PNG" width="436" height="351" />
@@ -18,8 +18,13 @@ A1. Predicting aneurysm rupture risk based on shape features.
 
 * L. Liang, **M. Liu (Co-first Author)**, C. Martin, J.A. Elefteriades, and W. Sun. 2017. *Biomechanics and Modeling in Mechanobiology*. [[Link](https://link.springer.com/article/10.1007/s10237-017-0903-9)]
 
-A2. Direct identification of *in vivo* constitutive parameters from aorta geometries at two cardiac phases.
-* We developed a machine learning approach to expedite the procedure of *in vivo* material parameter identification. The nonlinear relationship between the two loaded shapes and the constitutive parameters is established by an ML-model, which was trained and tested using finite element (FE) simulation datasets.
+A2. Computing stress distribution as a fast and accurate surrogate of finite element analysis.
+* We developed a deep learning model to estimate stress distribution on the aortic wall. An FEA simulation time of 30 minutes was reduced to a mere <1 second runtime and the results were within 1% error. This study has paved the way for fast and accurate computational analysis using machine learning surrogate models.
+ 
+* L. Liang, **M. Liu**, C. Martin, and W. Sun. 2018. *Journal of The Royal Society Interface*. [[Link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0844)]
+
+A3. Direct identification of *in vivo* constitutive parameters from aorta geometries at two cardiac phases.
+* Machine learning is more powerful for inverse problems which are traditionally solved by using iterative methods. We demonstrated the use of a machine learning model to fundamentally accelerate *in vivo* material parameter identification. The time cost of the inverse calculation was reduced from hours, days, or weeks to <1 second.
 
 <p align="center">
 <img src="https://minliangliu.github.io//images/MLmat.PNG" width="507" height="189" />
@@ -27,14 +32,11 @@ A2. Direct identification of *in vivo* constitutive parameters from aorta geomet
 
 * **M. Liu**, L. Liang, and W. Sun. 2019. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782518306297)]
 
-A3. Estimating stress distribution as a fast and accurate surrogate of finite element analysis.
-* L. Liang, **M. Liu**, C. Martin, and W. Sun. 2018. *Journal of The Royal Society Interface*. [[Link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0844)]
-
 A4. Recovering the unloaded configuration from *in vivo* loaded geometries.
 * L. Liang, **M. Liu**, C. Martin, and W. Sun. 2018. *International Journal for Numerical Methods in Biomedical Engineering*. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.3103)]
 
 A5. Direct computation of failure metric on the aortic wall, bypassing inverse and forward computation steps.
-* **M. Liu**, L. Liang, Y. Ismail, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. *Computers in Biology and Medicine*. [[Link](https://www.sciencedirect.com/science/article/pii/S0010482521005886?via%3Dihub)]
+* **M. Liu**, L. Liang, Y. Ismail, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. 2021. *Computers in Biology and Medicine*. [[Link](https://www.sciencedirect.com/science/article/pii/S0010482521005886?via%3Dihub)]
 
 
 B. Inverse identification of *in vivo* hyperleastic properties of the aortic wall from clinical images
@@ -79,7 +81,7 @@ B4. Comparison of *in vivo*-identified (from CT images) vs *ex vivo*-fitted (fro
 
 C. Learning soft tissue constitutive behaviors via deep neural networks
 ------
-We established deep neural networks as an alternative to model constitutive behaviors of soft tissues. These deep neural network models incorporate physical or microstructural knowledge of soft tissues and have led to performance improvements that could not be achieved by traditional constitutive models. 
+We established deep neural networks as an alternative to model constitutive behaviors of soft tissues. These deep neural network models incorporate physical or microstructural knowledge of soft tissues and have led to performance improvements that could not be achieved by classical constitutive models. 
 
 C1. A generic constitutive model of soft tissues enabled by physics-informed learning.
 * We developed a novel generic physics-informed neural network material (NNMat) model which employs a hierarchical learning strategy and a novel neural network structure: (1) a class parameter set for characterizing the general elastic properties; and (2) a subject parameter set (three parameters) for describing individual material response. The trained NNMat model may be directly adopted for a different subject without re-training the class parameters, and only the subject parameters are considered as constitutive parameters. Skip connections are utilized in the neural network to facilitate hierarchical learning. A convexity constraint was imposed to the NNMat model to ensure that the constitutive model is physically relevant.
