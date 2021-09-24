@@ -7,7 +7,7 @@ author_profile: true
 
 A. Machine learning surrogate models for fast computational analyses
 ------
-We developed a series of machine learning and deep learning approaches for surrogate modeling in cardiovascular simulations, these data-driven approaches can lead to fundamental improvements in computational efficiency, e.g., obtain accurate simulation results in real-time.
+We developed a series of machine learning and deep learning approaches for surrogate modeling in cardiovascular simulations, these data-driven approaches can lead to fundamental improvements in computational efficiency, i.e., obtain accurate simulation results in real-time.
 
 A1. Predicting aneurysm rupture risk based on shape features.
 * We investigated the feasibility of a machine learning approach to establish the linkages between shape features and FEA-predicted ascending thoracic aortic aneurysm (ATAA) rupture risk, and it may serve as a faster surrogate for FEA associated with long simulation time and numerical convergence issues. The results show that statistical shape model (SSM) parameters can be used as strong shape features to make predictions of risk scores consistent with FEA. Compared to FEA, this machine learning approach is magnitudes faster.
@@ -95,7 +95,7 @@ C2. Estimating tissue stress-strain responses from microscopy images by using de
 
 D. Anisotropic failure criterion and probabilistic failure metric of the aortic wall
 ------
-We developed a fiber-based failure criterion and a probabilistic and anisotropic failure index for aortic tissues. The new failure criterion was specifically proposed to capture the ansiotropy of the failure properties. Since there is no way to obatin *in vivo* wall strength, we developed a probabilistic failure metric to incorporate the uncertainties of the wall strength distributions. These novel failure models can be used for noninvasive risk assessment of ascending thoracic aortic aneurysm.
+We developed a fiber-based failure criterion and a probabilistic and anisotropic failure index for aortic tissues. The new failure criterion was specifically proposed to capture the ansiotropy of the failure properties. Since there is no way to obatin *in vivo* wall strengths, we developed a probabilistic failure metric to incorporate the uncertainties of the wall strength distributions. These novel failure models can be used for noninvasive risk assessment of thoracic aortic aneurysms.
 
 D1. A novel anisotropic failure criterion with distributed fiber orientations.
 * We proposed a novel stress-based anisotropic failure criterion with dispersed fiber orientations. In the new failure criterion, the overall failure metric is computed by using angular integration (AI) of failure metrics in all directions. Affine rotations of fiber orientations due to finite deformation are taken into account in an anisotropic hyperelastic constitutive model.
