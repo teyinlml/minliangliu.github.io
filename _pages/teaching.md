@@ -5,10 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-A. Machine learning applications in biomechanics
+A. Machine learning surrogate models for fast computational analyses
 ------
+We developed a series of machine learning and deep learning approaches for surrogate modeling in cardiovascular simulations, these data-driven approaches can lead to fundamental improvements in computational efficiency, e.g., obtain accurate simulation results in real-time.
 
-A1. A machine learning approach to investigate the relationship between shape features and numerically predicted risk of ascending aortic aneurysm.
+A1. Predicting aneurysm rupture risk based on shape features.
 * We investigated the feasibility of a machine learning approach to establish the linkages between shape features and FEA-predicted ascending thoracic aortic aneurysm (ATAA) rupture risk, and it may serve as a faster surrogate for FEA associated with long simulation time and numerical convergence issues. The results show that statistical shape model (SSM) parameters can be used as strong shape features to make predictions of risk scores consistent with FEA. Compared to FEA, this machine learning approach is magnitudes faster.
 
 <p align="center">
@@ -17,34 +18,26 @@ A1. A machine learning approach to investigate the relationship between shape fe
 
 * L. Liang, **M. Liu (Co-first Author)**, C. Martin, J.A. Elefteriades, and W. Sun. 2017. *Biomechanics and Modeling in Mechanobiology*. [[Link](https://link.springer.com/article/10.1007/s10237-017-0903-9)]
 
-A2. A deep learning approach to estimate tissue nonlinear anisotropic stress-strain responses from microscopy images.
-* L. Liang, **M. Liu**, and W. Sun. 2017. *Acta Biomaterialia*. [[Link](https://www.sciencedirect.com/science/article/pii/S1742706117305883)]
-
-A3. A deep learning approach to estimate stress distribution: a fast and accurate surrogate of finite-element analysis.
-* L. Liang, **M. Liu**, C. Martin, and W. Sun. 2018. *Journal of The Royal Society Interface*. [[Link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0844)]
-
-A4. A machine learning approach to estimate the zero‐pressure geometry of human thoracic aorta.
-* L. Liang, **M. Liu**, C. Martin, and W. Sun. 2018. *International Journal for Numerical Methods in Biomedical Engineering*. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.3103)]
-
-A5. A machine learning approach for estimation of *in vivo* constitutive parameters of the aortic wall.
+A2. Direct identification of *in vivo* constitutive parameters from aorta geometries at two cardiac phases.
 * We developed a machine learning approach to expedite the procedure of *in vivo* material parameter identification. The nonlinear relationship between the two loaded shapes and the constitutive parameters is established by an ML-model, which was trained and tested using finite element (FE) simulation datasets.
 
 <p align="center">
 <img src="https://minliangliu.github.io//images/MLmat.PNG" width="507" height="189" />
 </p>
+
+A3. Estimating stress distribution as a fast and accurate surrogate of finite element analysis.
+* L. Liang, **M. Liu**, C. Martin, and W. Sun. 2018. *Journal of The Royal Society Interface*. [[Link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0844)]
+
+A4. Recovering the unloaded configuration from *in vivo* loaded geometries.
+* L. Liang, **M. Liu**, C. Martin, and W. Sun. 2018. *International Journal for Numerical Methods in Biomedical Engineering*. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.3103)]
  
 * **M. Liu**, L. Liang, and W. Sun. 2019. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782518306297)]
 
-A6. A physics-informed neural network for constitutive modeling of soft biological tissues.
-* We developed a novel generic physics-informed neural network material (NNMat) model which employs a hierarchical learning strategy and a novel neural network structure: (1) a class parameter set for characterizing the general elastic properties; and (2) a subject parameter set (three parameters) for describing individual material response. The trained NNMat model may be directly adopted for a different subject without re-training the class parameters, and only the subject parameters are considered as constitutive parameters. Skip connections are utilized in the neural network to facilitate hierarchical learning. A convexity constraint was imposed to the NNMat model to ensure that the constitutive model is physically relevant.
+A5. Direct computation of failure metric on the aortic wall, bypassing inverse and forward computation steps.
 
-<p align="center">
-<img src="https://minliangliu.github.io//images/NNMat.PNG" width="581" height="344" />
-</p>
 
-* **M. Liu**, L. Liang, and W. Sun. 2020. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782520305879)]
 
-B. Inverse methods for identification of *in vivo* hyperleastic properties of the aortic wall
+B. Inverse identification of *in vivo* hyperleastic properties of the aortic wall from clinical images
 ------
 
 B1. A multi-resolution direction search (MRDS) approach based on finite element updating scheme.
@@ -82,6 +75,20 @@ B4. Comparison of *in vivo*-identified (from CT images) vs *ex vivo*-fitted (fro
 </p>
 
 * **M. Liu**, L. Liang, F. Sulejmani, X. Lou, G. Iannucci, E. Chen, B. Leshnower, and W. Sun. 2019. *Scientific Reports*. [[Link](https://www.nature.com/articles/s41598-019-49438-w)]
+
+C. Learning soft tissue constitutive behaviors via deep neural networks
+------
+C1. A physics-informed neural network for constitutive modeling of soft biological tissues.
+* We developed a novel generic physics-informed neural network material (NNMat) model which employs a hierarchical learning strategy and a novel neural network structure: (1) a class parameter set for characterizing the general elastic properties; and (2) a subject parameter set (three parameters) for describing individual material response. The trained NNMat model may be directly adopted for a different subject without re-training the class parameters, and only the subject parameters are considered as constitutive parameters. Skip connections are utilized in the neural network to facilitate hierarchical learning. A convexity constraint was imposed to the NNMat model to ensure that the constitutive model is physically relevant.
+
+<p align="center">
+<img src="https://minliangliu.github.io//images/NNMat.PNG" width="581" height="344" />
+</p>
+
+C2. A deep learning approach to estimate tissue nonlinear anisotropic stress-strain responses from microscopy images.
+* L. Liang, **M. Liu**, and W. Sun. 2017. *Acta Biomaterialia*. [[Link](https://www.sciencedirect.com/science/article/pii/S1742706117305883)]
+
+* **M. Liu**, L. Liang, and W. Sun. 2020. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782520305879)]
 
 C. Anisotropic failure criteria and probabilistic failure metric of the aortic wall
 ------
