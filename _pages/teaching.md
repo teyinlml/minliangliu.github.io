@@ -62,7 +62,7 @@ B2. Transmural mean stress of the aortic wall can be obtained without patient-sp
 * **M. Liu**, L. Liang, C. Martin, and W. Sun. 2018. *Biomechanics and Modeling in Mechanobiology*. [[Link](https://link.springer.com/article/10.1007/s10237-018-1089-5)]
 
 B3. A novel inverse method based on a stress-matching objective function.
-* We developed a novel inverse method based on a stress-matching strategy. The computationally-expensive FE simulations can be avoided. The method was validated through numerical experiments by using the *in vivo* data from 4 ATAA patients. The results demonstrated that the method is computationally efficient.
+* We developed a new computationally efficient inverse method based on a stress-matching strategy. By using statical determinacy of the aorta, the material parameters can be obtained by solving a subset of the inverse probelm- the constitutive equations, without invoking the computationally-expensive FEA. The method was validated through numerical experiments by using *in vivo* image data and surgically-resected tissue samples.
 
 <p align="center">
 <img src="https://minliangliu.github.io//images/stress.PNG" width="639" height="273" />
@@ -71,7 +71,7 @@ B3. A novel inverse method based on a stress-matching objective function.
 * **M. Liu**, L. Liang, and W. Sun. 2017. *Journal of the Mechanical Behavior of Biomedical Materials*. [[Link](https://www.sciencedirect.com/science/article/pii/S1751616117301893)]
 
 B4. Comparison of *in vivo*-identified (from CT images) vs *ex vivo*-fitted (from tissue testing) hyperelastic properties.
-* Using an improved version of MRDS approach, we estimated *in vivo* aortic tissue hyperelastic properties of two ATAA patients from pre-operative gated CT scans. For comparison, corresponding surgically-resected aortic wall tissue samples were obtained and subjected to planar biaxial tests. Relatively close matches were achieved for the *in vivo*-identified and *ex vivo*-fitted stress-stretch responses.
+* Using an improved version of MRDS approach, we estimated *in vivo* hyperelastic properties of two ATAA patients from pre-operative gated CT scans. For comparison, corresponding surgically-resected aortic tissue samples were obtained and subjected to planar biaxial tests. Relatively close matches were achieved for the *in vivo*-identified and *ex vivo*-fitted stress-stretch responses.
 
 <p align="center">
 <img src="https://minliangliu.github.io//images/validation.PNG" width="873" height="358" />
