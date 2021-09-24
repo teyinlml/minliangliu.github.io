@@ -25,13 +25,13 @@ A2. Direct identification of *in vivo* constitutive parameters from aorta geomet
 <img src="https://minliangliu.github.io//images/MLmat.PNG" width="507" height="189" />
 </p>
 
+* **M. Liu**, L. Liang, and W. Sun. 2019. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782518306297)]
+
 A3. Estimating stress distribution as a fast and accurate surrogate of finite element analysis.
 * L. Liang, **M. Liu**, C. Martin, and W. Sun. 2018. *Journal of The Royal Society Interface*. [[Link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0844)]
 
 A4. Recovering the unloaded configuration from *in vivo* loaded geometries.
 * L. Liang, **M. Liu**, C. Martin, and W. Sun. 2018. *International Journal for Numerical Methods in Biomedical Engineering*. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.3103)]
- 
-* **M. Liu**, L. Liang, and W. Sun. 2019. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782518306297)]
 
 A5. Direct computation of failure metric on the aortic wall, bypassing inverse and forward computation steps.
 * **M. Liu**, L. Liang, Y. Ismail, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. *Computers in Biology and Medicine*. [[Link](https://www.sciencedirect.com/science/article/pii/S0010482521005886?via%3Dihub)]
