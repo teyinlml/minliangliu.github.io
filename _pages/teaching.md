@@ -24,7 +24,7 @@ A2. Computing stress distribution as a fast and accurate surrogate of finite ele
 * L. Liang, **M. Liu**, C. Martin, and W. Sun. 2018. *Journal of The Royal Society Interface*. [[Link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0844)]
 
 A3. Direct identification of *in vivo* constitutive parameters from aorta geometries at two cardiac phases.
-* Machine learning is more powerful for inverse problems which are traditionally solved by using iterative methods. We demonstrated the use of a machine learning model to fundamentally accelerate *in vivo* material parameter identification. The time cost of the inverse calculation was reduced from hours, days, or weeks to <1 second.
+* Machine learning is more powerful for inverse problems which are traditionally solved by using iterative methods. We demonstrated the use of a machine learning model to vastly accelerate the identification of *in vivo* material parameters. The time cost of the inverse calculation was greatly reduced: from hours, days, or weeks to <1 second.
 
 <p align="center">
 <img src="https://minliangliu.github.io//images/MLmat.PNG" width="507" height="189" />
