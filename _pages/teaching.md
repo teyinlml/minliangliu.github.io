@@ -126,7 +126,7 @@ E1. Recovering three-dimensional residual stresses in the aortic wall via an ani
 E2. Fatigue damage modeling of prosthetic heart valve tissues using a residual stiffness-based model.
 * H. Dong, **M. Liu**, C. Martin, and W. Sun. 2020. *Journal of the Mechanics and Physics of Solids*. [[Link](https://www.sciencedirect.com/science/article/pii/S0022509620303082)]
 
-F. Micro-sensors and actuators for health-related applications
+F. Micro-systems for health-related applications
 ------
 
 F1. A miniature airborne particulate matter sensor based on 3D printed virtual impactor and quartz crystal microbalance (QCM).
