@@ -54,24 +54,6 @@ Professional Experience & Service
 * Reviewer for 2021 Summer Biomechanics, Bioengineering, and Biotransport Conference (SB3C 2021), 2020 President’s Undergraduate Research Award (PURA), 2019 American Society of Mechanical Engineers (ASME) Bioengineering Division (BED) BS Level Paper Competition
 * Member of American Society of Mechanical Engineers (ASME), American Heart Association (AHA), Biomedical Engineering Society (BMES)
 
-Skills
-------
-* Machine Learning and Optimization
-  * Data mining: Python- NumPy, pandas, scikit-learn
-  * Deep learning: Python- Keras, Tensorflow, PyTorch
-  * Nonlinear programming: MATLAB- Optimization Toolbox™
-* Programming Languages
-  * Python
-  * MATLAB
-  * FORTRAN
-  * C/Java
-* Softwares
-  * CAD: SOLIDWORKS/AutoCAD
-  * Image Segmentation: 3D Slicer/Avizo
-  * Mesh Processing: Altair HyperMesh/OpenFlipper
-  * FEA/CFD: Abaqus/Ansys/Ansys Fluent
-  * Visualization: ParaView
-
 Patents
 ------
 P3. W. Sun, J. Elefteriades, L. Liang, **M. Liu**, and C. Martin. Machine Learning-based Approach for Noninvasive Assessment of Ascending Aortic Aneurysm Pressure Rupture Risk Application. *US Patent App. 62/385,357*
