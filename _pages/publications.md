@@ -14,7 +14,7 @@ Preprints
 ------
 P1. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, and W. Sun. Engineering analysis of aortic wall stress in the surgery of V-shape resection of the noncoronary sinus. *medRxiv*. [[Link](https://www.medrxiv.org/content/10.1101/2020.12.02.20239475v1)]
 
-P2. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, W. Sun and R. L. Gleason. A computational growth framework for biological tissues: application to growth of aortic root aneurysm repaired by the V-shape surgery. *medRxiv*. [[Link](https://www.medrxiv.org/content/10.1101/2020.12.02.20239475v1)]
+P2. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, W. Sun and R. L. Gleason. A computational growth framework for biological tissues: application to growth of aortic root aneurysm repaired by the V-shape surgery. *medRxiv*. [[Link](https://www.medrxiv.org/content/10.1101/2021.09.30.21264318v1)]
 
 Journal Publications
 ------
