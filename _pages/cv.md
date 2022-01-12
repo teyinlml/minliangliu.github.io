@@ -50,7 +50,7 @@ Professional Experience & Service
 * Participated grant proposal writing "Risk stratification of uncomplicated type B aortic dissection using clinical and engineering analysis" NIH R01 $2M/4 years. Percentile: 9%. Contributions include assisting with designing the study, writing/editing all three specific aims, generating preliminary data, and writing/editing rebuttal for resubmission. PI: Bradley G. Leshnower
 * Wrote grant proposal "A novel computational framework for estimation of in vivo material properties of the aortic wall from 3D CT images" AHA Predoctoral Fellowship $53,688. Submission includes a 5-page research plan, applicant's NIH biographical sketch, sponsor and co-sponsor's supporting documents (training plan, research environment, NIH biographical sketch, and past trainees), and reference reports. PI: Minliang Liu
 * Section Editor of the journal *Medicine in Novel Technology and Devices*
-* Journal Reviewer for *Acta Biomaterialia*, *Frontiers in Physiology*, *Journal of the Mechanical Behavior of Biomedical Materials*, *International Journal for Numerical Methods in Biomedical Engineering*, *Journal of Biomechanical Engineering*, *Cardiovascular Engineering and Technology*, *Computer Methods in Biomechanics and Biomedical Engineering*, *Mathematical Problems in Engineering*, *Bioengineering*, *Remote Sensing*, *Materials*, *Sensors*, *Nutrients*, *Diagnostics*
+* Journal Reviewer for *Acta Biomaterialia*, *Frontiers in Physiology*, *Computers in Biology and Medicine*,*Journal of the Mechanical Behavior of Biomedical Materials*, *Journal of Personalized Medicine*, *International Journal for Numerical Methods in Biomedical Engineering*, *Journal of Biomechanical Engineering*, *Cardiovascular Engineering and Technology*, *Computer Methods in Biomechanics and Biomedical Engineering*, *Mathematical Problems in Engineering*, *Bioengineering*, *Remote Sensing*, *Materials*, *Sensors*, *Nutrients*, *Diagnostics*
 * Reviewer for 2021 Summer Biomechanics, Bioengineering, and Biotransport Conference (SB3C 2021), 2020 President’s Undergraduate Research Award (PURA), 2019 American Society of Mechanical Engineers (ASME) Bioengineering Division (BED) BS Level Paper Competition
 * Member of American Society of Mechanical Engineers (ASME), American Heart Association (AHA), Biomedical Engineering Society (BMES)
 
@@ -62,14 +62,12 @@ P2. J. Xie, J. Zhao, R. Zhao, and **M. Liu**. *CN Patent CN205,506,606 U*. [[Lin
 
 P1. J. Xie, J. Zhao, R. Zhao, and **M. Liu**. *CN Patent CN105,651,643 A*. [[Link](https://patentimages.storage.googleapis.com/ec/fc/d4/54630729e2a767/CN105651643A.pdf)]
 
-Preprints
-------
-P1. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, and W. Sun. Engineering analysis of aortic wall stress in the surgery of V-shape resection of the noncoronary sinus. *medRxiv*. [[Link](https://www.medrxiv.org/content/10.1101/2020.12.02.20239475v1)]
-
-P2. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, W. Sun and R. L. Gleason. A computational growth framework for biological tissues: application to growth of aortic root aneurysm repaired by the V-shape surgery. *medRxiv*. [[Link](https://www.medrxiv.org/content/10.1101/2021.09.30.21264318v1)]
-
 Journal Publications
 ------
+J20. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, W. Sun and R. L. Gleason. A novel computational growth framework for biological tissues: Application to growth of aortic root aneurysm repaired by the V-shape surgery. *Journal of the Mechanical Behavior of Biomedical Materials*. 2022; In Press. [[Link](https://www.sciencedirect.com/science/article/pii/S1751616122000091?via%3Dihub)]
+
+J19. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, and W. Sun. Engineering analysis of aortic wall stress in the surgery of V-shape resection of the noncoronary sinus. *Interactive CardioVascular and Thoracic Surgery*. 2022; Accepted. [[Link](https://www.medrxiv.org/content/10.1101/2020.12.02.20239475v1)]
+
 J18. **M. Liu**, L. Liang, Y. Ismail, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. Computation of a probabilistic and anisotropic failure metric on the aortic wall using a machine learning-based surrogate model. *Computers in Biology and Medicine* 2021; 137,104794. [[Link](https://www.sciencedirect.com/science/article/pii/S0010482521005886?via%3Dihub)]
 
 J17. **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A probabilistic and anisotropic failure metric for ascending thoracic aortic aneurysm risk assessment. *Journal of the Mechanics and Physics of Solids* 2021; 155,104539. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S002250962100199X?via%3Dihub)]
