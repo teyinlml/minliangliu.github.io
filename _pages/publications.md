@@ -10,14 +10,12 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=5PPa1
 
 Most of the papers are freely accessible from my [ResearchGate](https://www.researchgate.net/profile/Minliang_Liu) profile.
 
-Preprints
-------
-P1. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, and W. Sun. Engineering analysis of aortic wall stress in the surgery of V-shape resection of the noncoronary sinus. *medRxiv*. [[Link](https://www.medrxiv.org/content/10.1101/2020.12.02.20239475v1)]
-
-P2. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, W. Sun and R. L. Gleason. A computational growth framework for biological tissues: application to growth of aortic root aneurysm repaired by the V-shape surgery. *medRxiv*. [[Link](https://www.medrxiv.org/content/10.1101/2021.09.30.21264318v1)]
-
 Journal Publications
 ------
+J20. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, W. Sun and R. L. Gleason. A novel computational growth framework for biological tissues: Application to growth of aortic root aneurysm repaired by the V-shape surgery. *Journal of the Mechanical Behavior of Biomedical Materials*. 2022; In Press. [[Link](https://www.sciencedirect.com/science/article/pii/S1751616122000091?via%3Dihub)]
+
+J19. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, and W. Sun. Engineering analysis of aortic wall stress in the surgery of V-shape resection of the noncoronary sinus. *Interactive CardioVascular and Thoracic Surgery*. 2022; Accepted. [[Link](https://www.medrxiv.org/content/10.1101/2020.12.02.20239475v1)]
+
 J18. **M. Liu**, L. Liang, Y. Ismail, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. Computation of a probabilistic and anisotropic failure metric on the aortic wall using a machine learning-based surrogate model. *Computers in Biology and Medicine* 2021; 137,104794. [[Link](https://www.sciencedirect.com/science/article/pii/S0010482521005886?via%3Dihub)]
 
 J17. **M. Liu**, L. Liang, Q. Zou, Y. Ismail, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. A probabilistic and anisotropic failure metric for ascending thoracic aortic aneurysm risk assessment. *Journal of the Mechanics and Physics of Solids* 2021; 155,104539. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S002250962100199X?via%3Dihub)]
