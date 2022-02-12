@@ -12,9 +12,9 @@ Most of the papers are freely accessible from my [ResearchGate](https://www.rese
 
 Journal Publications
 ------
-J20. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, W. Sun and R. L. Gleason. A novel computational growth framework for biological tissues: Application to growth of aortic root aneurysm repaired by the V-shape surgery. *Journal of the Mechanical Behavior of Biomedical Materials*. 2022; In Press. [[Link](https://www.sciencedirect.com/science/article/pii/S1751616122000091?via%3Dihub)]
+J20. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, W. Sun and R. L. Gleason. A novel computational growth framework for biological tissues: Application to growth of aortic root aneurysm repaired by the V-shape surgery. *Journal of the Mechanical Behavior of Biomedical Materials*. 2022; 127,105081. [[Link](https://www.sciencedirect.com/science/article/pii/S1751616122000091?via%3Dihub)]
 
-J19. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, and W. Sun. Engineering analysis of aortic wall stress in the surgery of V-shape resection of the noncoronary sinus. *Interactive CardioVascular and Thoracic Surgery*. 2022; Accepted. [[Link](https://www.medrxiv.org/content/10.1101/2020.12.02.20239475v1)]
+J19. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, and W. Sun. Engineering analysis of aortic wall stress in the surgery of V-shape resection of the noncoronary sinus. *Interactive CardioVascular and Thoracic Surgery*. 2022. [[Link](https://academic.oup.com/icvts/advance-article/doi/10.1093/icvts/ivac004/6521329?login=true)]
 
 J18. **M. Liu**, L. Liang, Y. Ismail, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. Computation of a probabilistic and anisotropic failure metric on the aortic wall using a machine learning-based surrogate model. *Computers in Biology and Medicine* 2021; 137,104794. [[Link](https://www.sciencedirect.com/science/article/pii/S0010482521005886?via%3Dihub)]
 
