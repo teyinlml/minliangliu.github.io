@@ -64,6 +64,8 @@ P1. J. Xie, J. Zhao, R. Zhao, and **M. Liu**. *CN Patent CN105,651,643 A*. [[Lin
 
 Journal Publications
 ------
+J21. H. Dong, **M. Liu**, X. Lou, B. G. Leshnower, W. Sun, B. Ziganshin, M. Zafar, J. A. Elefteriades. Ultimate Tensile Strength and Biaxial Stress–Strain Responses of Aortic Tissues—A Clinical-Engineering Correlation. *Applications in Engineering Science*. 2022; 10,100101. [[Link](https://www.sciencedirect.com/science/article/pii/S2666496822000188)]
+
 J20. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, W. Sun and R. L. Gleason. A novel computational growth framework for biological tissues: Application to growth of aortic root aneurysm repaired by the V-shape surgery. *Journal of the Mechanical Behavior of Biomedical Materials*. 2022; 127,105081. [[Link](https://www.sciencedirect.com/science/article/pii/S1751616122000091?via%3Dihub)]
 
 J19. H. Dong, **M. Liu**, T. Qin, L. Liang, B. Ziganshin, H. Ellauzi, M. Zafar, S. Jang, J. Elefteriades, and W. Sun. Engineering analysis of aortic wall stress in the surgery of V-shape resection of the noncoronary sinus. *Interactive CardioVascular and Thoracic Surgery*. 2022. [[Link](https://academic.oup.com/icvts/advance-article/doi/10.1093/icvts/ivac004/6521329?login=true)]
