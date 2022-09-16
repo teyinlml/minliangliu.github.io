@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently working as a Postdoctoral Fellow at the [Wallace H. Coulter Department of Biomedical Engineering](https://bme.gatech.edu/bme/), Georgia Institute of Technology and Emory University (advisor: [Dr. Rudolph L. Gleason](https://www.me.gatech.edu/faculty/gleason)). I received my Ph.D. degree in Mechanical Engineering from [Georgia Institute of Technology](https://www.gatech.edu/) (advisor: [Dr. Wei Sun](https://petitinstitute.gatech.edu/wei-sun)), in 2020. Previously, I received a B.Eng. degree in Mechatronic Engineering from [Zhejiang University](https://www.zju.edu.cn/english/), in 2015.
 
-My research interests span the fields of cardiovascular biomechanics, computational modeling, inverse methods, and machine learning. My research projects focus on the following areas:
+My research interests lie primarily at the intersection of cardiovascular biomechanics, computational modeling, and machine learning. I am working alongside cardiothoracic surgeons, biomechanical engineers, and computer scientists to develop noninvasive personalized computational tools for assisting the clinical prognosis and treatment of cardiovascular diseases. In particular, my work has been focused on the following areas:
 * Bridging the gap between vascular biomechanics and machine learning
   * Deep learning surrogate models for fast computational analyses;
   * Physics-informed machine learning for constitutive modeling and personalized computation;
