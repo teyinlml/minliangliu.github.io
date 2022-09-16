@@ -56,6 +56,10 @@ J2. K. Kim, Z. Liang, **M. Liu**, and D.E. Fan. Biobased high-performance rotary
 
 J1. J. Zhao, **M. Liu (Co-first Author)**, L. Liang, W. Wang, and J. Xie. Airborne particulate matter classification and concentration detection based on 3D printed virtual impactor and quartz crystal microbalance sensor. *Sensors and Actuators A: Physical* 2016; 238: 379-88. [[Link](https://www.sciencedirect.com/science/article/pii/S0924424715302788)]
 
+Submitted Manuscripts
+------
+S1. **M. Liu**, W. Sun, and L. Liang. Analysis of aortic rupture: a computational biomechanics perspective. (Book Chapter) to appear in the book: *Biomechanics of the Aorta* lead by ‪T. Christian Gasser, Stéphane Avril, and John A. Elefteriades.
+
 Full-Length Conference Publications
 ------
 C3. D. H. Pak, **M. Liu**, T. Kim, L. Liang, R. McKay, W. Sun, and J. S. Duncan. Distortion Energy for Deep Learning-based Volumetric Finite Element Mesh Generation for Aortic Valves. *The 24th International Conference on Medical Imaging Computing & Computer Assisted Intervention 2021* (MICCAI 2021). Strasbourg, France, September 27–October 1, 2021. (full-length) [[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_47)]
