@@ -111,3 +111,11 @@ A3. L. Liang, **M. Liu**, and W. Sun. Estimation of collagenous tissue elastic p
 A2. K. Kim, Z. Liang, **M. Liu**, and D.E. Fan. High-performance rotary micromachines based on biomaterials and their applications in microfluidics. *2016 MRS Fall Meeting & Exhibit*. Boston, MA, Nov 27-Dec 2, 2016.
 
 A1. K. Kim, **M. Liu**, and D.E. Fan. Bioinspired Rotary Micromachines for Microfluidic Applications. *ASME 2016 5th Global Congress on NanoEngineering for Medicine and Biology* (NEMB 2016). Houston, TX, Feb 21-24, 2016.
+
+Patents
+------
+P3. W. Sun, J. Elefteriades, L. Liang, **M. Liu**, and C. Martin. Machine Learning-based Approach for Noninvasive Assessment of Ascending Aortic Aneurysm Pressure Rupture Risk Application. *US Patent App. 62/385,357*
+
+P2. J. Xie, J. Zhao, R. Zhao, and **M. Liu**. *CN Patent CN205,506,606 U*. [[Link](https://patentimages.storage.googleapis.com/6b/c7/52/4e8e3d4a482ab9/CN205506606U.pdf)]
+
+P1. J. Xie, J. Zhao, R. Zhao, and **M. Liu**. *CN Patent CN105,651,643 A*. [[Link](https://patentimages.storage.googleapis.com/ec/fc/d4/54630729e2a767/CN105651643A.pdf)]
