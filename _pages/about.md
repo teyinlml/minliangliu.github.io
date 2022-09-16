@@ -8,19 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Postdoctoral Fellow at the [Wallace H. Coulter Department of Biomedical Engineering](https://bme.gatech.edu/bme/), Georgia Institute of Technology and Emory University. I received my Ph.D. degree in Mechanical Engineering from [Georgia Institute of Technology](https://www.gatech.edu/), in 2020. Previously, I received a B.Eng. degree in Mechatronic Engineering from [Zhejiang University](https://www.zju.edu.cn/english/), in 2015.
+I am currently working as a Postdoctoral Fellow at the [Wallace H. Coulter Department of Biomedical Engineering](https://bme.gatech.edu/bme/), Georgia Institute of Technology and Emory University (advisor: [Dr. Rudolph L. Gleason](https://www.me.gatech.edu/faculty/gleason)). I received my Ph.D. degree in Mechanical Engineering from [Georgia Institute of Technology](https://www.gatech.edu/) (advisor: [Dr. Wei Sun](https://petitinstitute.gatech.edu/wei-sun)), in 2020. Previously, I received a B.Eng. degree in Mechatronic Engineering from [Zhejiang University](https://www.zju.edu.cn/english/), in 2015.
 
-My research interests span the fields of cardiovascular biomechanics, computational modeling, inverse methods, and machine learning. My on-going projects focus on the following areas:
-* Machine learning surrogate models for fast computational analyses;
-* Patient-specific modeling of arterial growth and remodeling;
-* Physics-informed machine learning for constitutive modeling and personalized computation;
+My research interests span the fields of cardiovascular biomechanics, computational modeling, inverse methods, and machine learning. My research projects focus on the following areas:
+* Bridging the gap between vascular biomechanics and machine learning
+  * Deep learning surrogate models for fast computational analyses;
+  * Physics-informed machine learning for constitutive modeling and personalized computation;
+  * Reinforcement learning framework for determination of arterial growth evolution laws;
+* Experimental characterization and modeling of the mechanical behavior of cardiovascular tissues.
 * Inverse identification of *in vivo* constitutive parameters from clinical images;
 * Patient-specific computational modeling of cardiovascular interventions;
-* Experimental characterization and modeling of the mechanical behavior of cardiovascular tissues.
 
 
 News
 ===============
+**8/19/2022** New paper "Constructing growth evolution laws of arteries via reinforcement learning" is accepted by *Journal of the Mechanics and Physics of Solids*. [[Link](https://www.sciencedirect.com/science/article/pii/S002250962200223X)]
+
+**7/10/2022** I presented our work on arterial growth law construction with reinforcement learning at WCB 2022.
+
 **8/21/2021** New paper "Computation of a probabilistic and anisotropic failure metric on the aortic wall using a machine learning-based surrogate model" is accepted by *Computers in Biology and Medicine*. [[Link](https://www.sciencedirect.com/science/article/pii/S0010482521005886?via%3Dihub)]
 
 **6/18/2021** I attended the SB3C 2021 and gave a talk on a new probabilistic and anisotropic failure index for the aortic wall.
