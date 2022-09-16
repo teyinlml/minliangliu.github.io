@@ -31,12 +31,19 @@ Experience
 * Jul 2014- Aug 2014: Visiting Research Student
   * Walker Department of Mechanical Engineering, The University of Texas at Austin
 
-Teaching Experience
+Teaching and Mentoring Experience
 ------
 * Teaching Practicum, Georgia Institute of Technology, Fall 2017
-  * Teaching Practicum, BMED/ME6703 Tissue Mechanics (Graduate Level), delivered three lectures
+  * BMED/ME6703 Tissue Mechanics (Graduate), delivered three lectures
   * Instructors: [Dr. Wei Sun](https://bme.gatech.edu/bme/faculty/Wei-Sun) and [Dr. Rudy Gleason](https://me.gatech.edu/faculty/gleason)
-  
+* Teaching Assistant, Georgia Institute of Technology, Spring 2018. 
+  * BMED 3400 Introduction to Biomechanics (Undergraduate), prepared slides for a third of the lectures.
+*	Research mentor for 11 undergraduate students from Summer 2019 to May 2021, Georgia Institute of Technology. 
+  *	Projects include computational modeling and experimental testing of aortic tissues. 
+  *	One student received the 2021 President's Undergraduate Research Awards (PURA), which covered the student’s stipend.
+*	Research mentor for 4 undergraduate students from January 2022 to present, Georgia Institute of Technology. 
+  *	Projects include clinical image segmentation and mesh processing of aortic dissection.
+
 Awards and Honors
 ------
 * [Georgia Tech Sigma Xi Best Ph.D. Thesis Award](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/283/files/2021/03/2021-Sigma-Xi-Research-Award-Winners.final_.pdf), 2021 [[Georgia Tech ME Twitter](https://twitter.com/MEGeorgiaTech/status/1367938343640707077), [Georgia Tech BME News](https://bme.gatech.edu/bme/news/sigma-xi-honors-voit-mitchell-impactful-research-2021-awards)]
@@ -50,14 +57,6 @@ Professional Experience & Service
 * Participated grant proposal writing "Risk stratification of uncomplicated type B aortic dissection using clinical and engineering analysis" NIH R01 $2M/4 years. Percentile: 9%. Contributions include assisting with designing the study, writing/editing all three specific aims, generating preliminary data, and writing/editing rebuttal for resubmission. PI: Bradley G. Leshnower
 * Wrote grant proposal "A novel computational framework for estimation of in vivo material properties of the aortic wall from 3D CT images" AHA Predoctoral Fellowship $53,688. Submission includes a 5-page research plan, applicant's NIH biographical sketch, sponsor and co-sponsor's supporting documents (training plan, research environment, NIH biographical sketch, and past trainees), and reference reports. PI: Minliang Liu
 * Section Editor of the journal *Medicine in Novel Technology and Devices*
-* Journal Reviewer for *Acta Biomaterialia*, *Frontiers in Physiology*, *Computers in Biology and Medicine*, *Journal of the Mechanical Behavior of Biomedical Materials*, *Journal of Personalized Medicine*, *International Journal for Numerical Methods in Biomedical Engineering*, *Journal of Biomechanical Engineering*, *Cardiovascular Engineering and Technology*, *Computer Methods in Biomechanics and Biomedical Engineering*, *Mathematical Problems in Engineering*, *Bioengineering*, *Remote Sensing*, *Materials*, *Sensors*, *Nutrients*, *Diagnostics*
+* Journal Reviewer (55+ reviews) for *Acta Biomaterialia*, *Frontiers in Physiology*, *Computers in Biology and Medicine*, *Journal of the Mechanical Behavior of Biomedical Materials*, *Journal of Personalized Medicine*, *International Journal for Numerical Methods in Biomedical Engineering*, *Journal of Biomechanical Engineering*, *Cardiovascular Engineering and Technology*, *Computer Methods in Biomechanics and Biomedical Engineering*, *Mathematical Problems in Engineering*, *Bioengineering*, *Remote Sensing*, *Materials*, *Sensors*, *Nutrients*, *Diagnostics*
 * Reviewer for 2021 Summer Biomechanics, Bioengineering, and Biotransport Conference (SB3C 2021), 2020 President’s Undergraduate Research Award (PURA), 2019 American Society of Mechanical Engineers (ASME) Bioengineering Division (BED) BS Level Paper Competition
 * Member of American Society of Mechanical Engineers (ASME), American Heart Association (AHA), Biomedical Engineering Society (BMES)
-
-Patents
-------
-P3. W. Sun, J. Elefteriades, L. Liang, **M. Liu**, and C. Martin. Machine Learning-based Approach for Noninvasive Assessment of Ascending Aortic Aneurysm Pressure Rupture Risk Application. *US Patent App. 62/385,357*
-
-P2. J. Xie, J. Zhao, R. Zhao, and **M. Liu**. *CN Patent CN205,506,606 U*. [[Link](https://patentimages.storage.googleapis.com/6b/c7/52/4e8e3d4a482ab9/CN205506606U.pdf)]
-
-P1. J. Xie, J. Zhao, R. Zhao, and **M. Liu**. *CN Patent CN105,651,643 A*. [[Link](https://patentimages.storage.googleapis.com/ec/fc/d4/54630729e2a767/CN105651643A.pdf)]
