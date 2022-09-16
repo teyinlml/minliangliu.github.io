@@ -50,11 +50,13 @@ J5. L. Liang, **M. Liu**, and W. Sun. A deep learning approach to estimate chemi
 
 J4. **M. Liu**, L. Liang, and W. Sun. A new inverse method for estimation of in vivo mechanical properties of the aortic wall. *Journal of the Mechanical Behavior of Biomedical Materials* 2017; 72: 148-158. [[Link](https://www.sciencedirect.com/science/article/pii/S1751616117301893)]
 
-J3. L. Liang, **M. Liu (Co-first Author)**, C. Martin, J.A. Elefteriades, and W. Sun. A machine learning approach to investigate the relationship between shape features and numerically predicted risk of ascending aortic aneurysm. *Biomechanics and Modeling in Mechanobiology* 2017; 16 (5): 1519-1533. [[Link](https://link.springer.com/article/10.1007/s10237-017-0903-9)]
+J3. L. Liang #, **M. Liu #**, C. Martin, J.A. Elefteriades, and W. Sun. A machine learning approach to investigate the relationship between shape features and numerically predicted risk of ascending aortic aneurysm. *Biomechanics and Modeling in Mechanobiology* 2017; 16 (5): 1519-1533. [[Link](https://link.springer.com/article/10.1007/s10237-017-0903-9)]
 
 J2. K. Kim, Z. Liang, **M. Liu**, and D.E. Fan. Biobased high-performance rotary micromotors for individually reconfigurable micromachine arrays and microfluidic applications. *ACS Applied Materials & Interfaces* 2017; 9 (7): 6144-6152. [[Link](https://pubs.acs.org/doi/abs/10.1021/acsami.6b13997)]
 
-J1. J. Zhao, **M. Liu (Co-first Author)**, L. Liang, W. Wang, and J. Xie. Airborne particulate matter classification and concentration detection based on 3D printed virtual impactor and quartz crystal microbalance sensor. *Sensors and Actuators A: Physical* 2016; 238: 379-88. [[Link](https://www.sciencedirect.com/science/article/pii/S0924424715302788)]
+J1. J. Zhao #, **M. Liu #**, L. Liang, W. Wang, and J. Xie. Airborne particulate matter classification and concentration detection based on 3D printed virtual impactor and quartz crystal microbalance sensor. *Sensors and Actuators A: Physical* 2016; 238: 379-88. [[Link](https://www.sciencedirect.com/science/article/pii/S0924424715302788)]
+
+#: Co-first Authors
 
 Submitted Manuscripts
 ------
