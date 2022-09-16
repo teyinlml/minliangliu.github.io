@@ -35,7 +35,6 @@ Teaching and Mentoring Experience
 ------
 * Teaching Practicum, Georgia Institute of Technology, Fall 2017
   * BMED/ME6703 Tissue Mechanics (Graduate), delivered three lectures
-  * Instructors: [Dr. Wei Sun](https://bme.gatech.edu/bme/faculty/Wei-Sun) and [Dr. Rudy Gleason](https://me.gatech.edu/faculty/gleason)
 * Teaching Assistant, Georgia Institute of Technology, Spring 2018. 
   * BMED 3400 Introduction to Biomechanics (Undergraduate), prepared slides for a third of the lectures.
 *	Research mentor for 11 undergraduate students from Summer 2019 to May 2021, Georgia Institute of Technology. 
