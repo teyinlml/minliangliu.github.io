@@ -36,12 +36,12 @@ Teaching and Mentoring Experience
 * Teaching Practicum, Georgia Institute of Technology, Fall 2017
   * BMED/ME6703 Tissue Mechanics (Graduate), delivered three lectures
 * Teaching Assistant, Georgia Institute of Technology, Spring 2018. 
-  * BMED 3400 Introduction to Biomechanics (Undergraduate), prepared slides for a third of the lectures.
+  * BMED 3400 Introduction to Biomechanics (Undergraduate), prepared slides for a third of the lectures
 *	Research mentor for 11 undergraduate students from Summer 2019 to May 2021, Georgia Institute of Technology. 
-  * Projects include computational modeling and experimental testing of aortic tissues. 
-  * One student received the 2021 President's Undergraduate Research Awards (PURA), which covered the student’s stipend.
+  * Projects include computational modeling and experimental testing of aortic tissues
+  * One student received the 2021 President's Undergraduate Research Awards (PURA), which covered the student’s stipend
 *	Research mentor for 4 undergraduate students from January 2022 to present, Georgia Institute of Technology. 
-  * Projects include clinical image segmentation and mesh processing of aortic dissection.
+  * Projects include clinical image segmentation and mesh processing of aortic dissection
 
 Awards and Honors
 ------
