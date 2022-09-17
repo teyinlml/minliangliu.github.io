@@ -15,9 +15,9 @@ My research interests lie primarily at the intersection of cardiovascular biomec
   * Deep learning surrogate models for fast computational analyses;
   * Physics-informed machine learning for constitutive modeling and personalized computation;
   * Reinforcement learning framework for determination of arterial growth evolution laws;
-* Experimental characterization and modeling of the mechanical behavior of cardiovascular tissues.
+* Experimental characterization and modeling of the mechanical behavior of cardiovascular tissues;
 * Inverse identification of *in vivo* nonlinear anisotropic constitutive parameters from clinical images;
-* Patient-specific computational modeling of cardiovascular interventions;
+* Patient-specific computational modeling of cardiovascular interventions.
 
 
 News
