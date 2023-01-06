@@ -22,7 +22,7 @@ My research interests lie primarily at the intersection of cardiovascular biomec
 
 News
 ===============
-**12/7/2022** I received the 2023 American Heart Association Postdoctoral Fellowship. This award totaling $143,177 will support my project on type B aortic dissection beginning from 1/1/2023.
+**12/7/2022** I received the 2023 American Heart Association Postdoctoral Fellowship. This award totaling $143,177 will support my project on type B aortic dissection from 1/1/2023.
 
 **8/19/2022** New paper "Constructing growth evolution laws of arteries via reinforcement learning" is accepted by *Journal of the Mechanics and Physics of Solids*. [[Link](https://www.sciencedirect.com/science/article/pii/S002250962200223X)]
 
