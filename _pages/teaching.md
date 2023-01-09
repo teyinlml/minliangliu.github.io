@@ -9,7 +9,7 @@ A. Aortic risk assessment with data-driven machine learning surrogate models
 ------
 Classical patient-specific simulations have limited clinical translatability, which can be attributed to one of the major bottlenecks of current technologies: they consist of multiple iterative computational steps and require a long computation time (hours to days), which is impractical for clinical decision-making. We developed a series of machine learning (ML) and deep learning (DL) approaches as fast and accurate surrogate models of cardiovascular simulations, for instance, (1) an image-to-image DL model as a fast and accurate surrogate of traditional finite element analysis to compute stress distributions; and (2) data-driven ML models for real-time inverse analysis of the aortic wall; (3) an ML-based surrogate model to directly assess failure metrics from aortic geometries. We built statistical shape models to generate large numbers of aorta geometries, yielding an effective strategy to gather mechanistic simulation data for training. By learning the high-dimensional input-output relationships, these ML and DL approaches can lead to fundamental improvements in computational performance, e.g., obtaining accurate results in real time.
 
-<p align="left">
+<p align="center">
 <img src="https://minliangliu.github.io//images/MLModel.png" width="506" height="384" />
 </p>
 
