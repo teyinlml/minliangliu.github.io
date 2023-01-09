@@ -9,34 +9,9 @@ A. Machine learning surrogate models for fast computational analyses
 ------
 We developed a series of machine learning and deep learning approaches for surrogate modeling in cardiovascular simulations, these data-driven approaches can lead to fundamental improvements in computational efficiency, i.e., obtain accurate simulation results in real-time.
 
-A1. Predicting aneurysm rupture risk based on shape features.
-* We developed a machine learning approach to predict ascending thoracic aortic aneurysm (ATAA) rupture risk based on shape features. The results show that statistical shape model (SSM) parameters can be used as strong shape features to make predictions of risk scores consistent with finite element analysis (FEA)- a classical computational approach associated with long simulation time and numerical convergence issues. The machine learning model demonstrated its capabilities to bypass FEA and directly predict the FEA results in <1 second. This was the first published study that bridged machine learning and biomechanics for surrogate modeling.
-
 <p align="center">
-  <img src="https://minliangliu.github.io//images/PRR.PNG" width="436" height="351" />
+<img src="https://minliangliu.github.io//images/MLModel.PNG" width="507" height="189" />
 </p>
-
-* L. Liang, **M. Liu (Co-first Author)**, C. Martin, J.A. Elefteriades, and W. Sun. 2017. *Biomechanics and Modeling in Mechanobiology*. [[Link](https://link.springer.com/article/10.1007/s10237-017-0903-9)]
-
-A2. Computing stress distribution as a fast and accurate surrogate of finite element analysis.
-* We developed a deep learning model to estimate stress distribution on the aortic wall. An FEA simulation time of 30 minutes was reduced to a mere <1 second runtime and the results were within 1% error. This study has paved the way for fast and accurate computational analysis using machine learning surrogate models.
- 
-* L. Liang, **M. Liu**, C. Martin, and W. Sun. 2018. *Journal of The Royal Society Interface*. [[Link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0844)]
-
-A3. Direct identification of *in vivo* constitutive parameters from aorta geometries at two cardiac phases.
-* Machine learning is more powerful for inverse problems which are traditionally solved by using iterative methods. We demonstrated the use of a machine learning model to vastly accelerate the identification of *in vivo* material parameters. The time cost of the inverse calculation was greatly reduced: from hours, days, or weeks to <1 second.
-
-<p align="center">
-<img src="https://minliangliu.github.io//images/MLmat.PNG" width="507" height="189" />
-</p>
-
-* **M. Liu**, L. Liang, and W. Sun. 2019. *Computer Methods in Applied Mechanics and Engineering*. [[Link](https://www.sciencedirect.com/science/article/pii/S0045782518306297)]
-
-A4. Recovering the unloaded configuration of the aorta from *in vivo* loaded geometries.
-* L. Liang, **M. Liu**, C. Martin, and W. Sun. 2018. *International Journal for Numerical Methods in Biomedical Engineering*. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.3103)]
-
-A5. Direct computation of failure metric on the aortic wall, bypassing inverse and forward computation steps.
-* **M. Liu**, L. Liang, Y. Ismail, H. Dong, X. Lou, G. Iannucci, E.P. Chen, B.G. Leshnower, J.A. Elefteriades, and W. Sun. 2021. *Computers in Biology and Medicine*. [[Link](https://www.sciencedirect.com/science/article/pii/S0010482521005886?via%3Dihub)]
 
 
 B. Inverse identification of *in vivo* hyperleastic properties of the aortic wall from clinical images
