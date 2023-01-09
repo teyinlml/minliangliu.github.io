@@ -57,8 +57,3 @@ F1. A miniature airborne particulate matter sensor based on 3D printed virtual i
 <p align="center">
 <img src="https://minliangliu.github.io//images/PM.PNG" width="445" height="328" />
 </p>
-
-* J. Zhao, **M. Liu (Co-first Author)**, L. Liang, W. Wang, and J. Xie. 2016. *Sensors and Actuators A: Physical*. [[Link](https://www.sciencedirect.com/science/article/pii/S0924424715302788)]
-
-F2. Biobased high-performance rotary micromotors for individually reconfigurable micromachine arrays and microfluidic applications.
-* K. Kim, Z. Liang, **M. Liu**, and D.E. Fan. 2017. *ACS Applied Materials & Interfaces*. [[Link](https://pubs.acs.org/doi/abs/10.1021/acsami.6b13997)]
