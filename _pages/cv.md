@@ -17,7 +17,7 @@ Education
 * B.Eng. in Mechatronic Engineering, Zhejiang University, 2015
   * GPA: 3.9/4.0
 
-Experience
+Academic Experience
 ------
 * Jan 2021- now: Postdoctoral Fellow
   * Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University
@@ -31,7 +31,7 @@ Experience
 * Jul 2014- Aug 2014: Visiting Research Student
   * Walker Department of Mechanical Engineering, The University of Texas at Austin
 
-Teaching and Mentoring Experience
+Teaching & Mentoring
 ------
 * Teaching Practicum, Georgia Institute of Technology, Fall 2017
   * BMED/ME6703 Tissue Mechanics (Graduate), delivered three guest lectures
@@ -44,7 +44,7 @@ Teaching and Mentoring Experience
   * Projects include clinical image segmentation and mesh processing of aortic dissection
   * One student received the 2023 President's Undergraduate Research Awards (PURA), which covered the student’s stipend
 
-Awards and Honors
+Awards & Honors
 ------
 * 2023 American Heart Association (AHA) Postdoctoral Fellowship
   * Award number: 23POST1029513, Amount: $143,177
@@ -54,11 +54,8 @@ Awards and Honors
 * Ph.D. Competition Finalist, Summer Biomechanics Bioengineering and Biotransport Conference (SB3C), 2019
 * Scholarships, Zhejiang University, 2014
 
-Professional Experience & Service
+Academic Service
 ------
-* Participated grant proposal writing "Risk stratification of uncomplicated type B aortic dissection using clinical and engineering analysis" NIH R01 $2M/4 years. Percentile: 9%. Contributions include assisting with designing the study, writing/editing all three specific aims, generating preliminary data, and writing/editing rebuttal for resubmission. PI: Bradley G. Leshnower
-* Wrote grant proposal "A data efficient computational framework for prediction of false lumen growth in type B aortic dissection" AHA Postdoctoral Fellowship $143,177. Submission includes a 5-page research plan, applicant's NIH biographical sketch, sponsors' supporting documents (training plan, research environment, NIH biographical sketch, and past trainees), and reference reports. PI: Minliang Liu
-* Wrote grant proposal "A novel computational framework for estimation of in vivo material properties of the aortic wall from 3D CT images" AHA Predoctoral Fellowship $53,688. Submission includes a 5-page research plan, applicant's NIH biographical sketch, sponsors' supporting documents (training plan, research environment, NIH biographical sketch, and past trainees), and reference reports. PI: Minliang Liu
 * Section Editor of the journal *Medicine in Novel Technology and Devices*
 * Journal Reviewer (55+ reviews) for *Acta Biomaterialia*, *Journal of the Royal Society Interface*, *Frontiers in Physiology*, *Computers in Biology and Medicine*, *Journal of the Mechanical Behavior of Biomedical Materials*, *Biophysical Journal*, *Journal of Personalized Medicine*, *International Journal for Numerical Methods in Biomedical Engineering*, *Journal of Biomechanical Engineering*, *Cardiovascular Engineering and Technology*, *Computer Methods in Biomechanics and Biomedical Engineering*, *Advances in Engineering Software*,  *Mathematical Problems in Engineering*, *Bioengineering*, *Remote Sensing*, *Materials*, *Sensors*, *Nutrients*, *Diagnostics*
 * Reviewer for 2021 Summer Biomechanics, Bioengineering, and Biotransport Conference (SB3C 2021), 2020 President’s Undergraduate Research Award (PURA), 2019 American Society of Mechanical Engineers (ASME) Bioengineering Division (BED) BS Level Paper Competition
