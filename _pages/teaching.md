@@ -10,7 +10,7 @@ A. Machine learning surrogate models for fast computational analyses
 We developed a series of machine learning and deep learning approaches for surrogate modeling in cardiovascular simulations, these data-driven approaches can lead to fundamental improvements in computational efficiency, i.e., obtain accurate simulation results in real-time.
 
 <p align="center">
-<img src="https://minliangliu.github.io//images/MLModel.PNG" width="3368" height="2561" />
+<img src="https://minliangliu.github.io//images/MLModel.png" width="3368" height="2561" />
 </p>
 
 
