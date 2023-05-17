@@ -56,7 +56,9 @@ Awards & Honors
 
 Academic Service
 ------
-* Section Editor of the journal *Medicine in Novel Technology and Devices*
-* Journal Reviewer (55+ reviews) for *Acta Biomaterialia*, *Journal of the Royal Society Interface*, *Frontiers in Physiology*, *Computers in Biology and Medicine*, *Journal of the Mechanical Behavior of Biomedical Materials*, *Biophysical Journal*, *Journal of Personalized Medicine*, *International Journal for Numerical Methods in Biomedical Engineering*, *Journal of Biomechanical Engineering*, *Cardiovascular Engineering and Technology*, *Computer Methods in Biomechanics and Biomedical Engineering*, *Advances in Engineering Software*,  *Mathematical Problems in Engineering*, *Bioengineering*, *Remote Sensing*, *Materials*, *Sensors*, *Nutrients*, *Diagnostics*
-* Reviewer for 2021 Summer Biomechanics, Bioengineering, and Biotransport Conference (SB3C 2021), 2020 President’s Undergraduate Research Award (PURA), 2019 American Society of Mechanical Engineers (ASME) Bioengineering Division (BED) BS Level Paper Competition
-* Member of American Society of Mechanical Engineers (ASME), American Heart Association (AHA), Biomedical Engineering Society (BMES)
+* Section Editor, *Medicine in Novel Technology and Devices*
+* Guest Editor, *Computer Modeling in Engineering & Sciences*, special issue "Machine Learning Based Computational Mechanics"
+* Minisymposium Organizer, 2nd IACM Mechanistic Machine and Digital Engineering for Computational Science Engineering and Technology (MMLDE-CSET, Sep 24-27, 2023, El Paso, TX), “Machine Learning for Modeling Cardiovascular Diseases”
+* Journal Reviewer (60+ reviews), *Acta Biomaterialia*, *Journal of the Royal Society Interface*, *Frontiers in Physiology*, *Computers in Biology and Medicine*, *Journal of the Mechanical Behavior of Biomedical Materials*, *Biophysical Journal*, *Journal of Personalized Medicine*, *International Journal for Numerical Methods in Biomedical Engineering*, *Journal of Biomechanical Engineering*, *Cardiovascular Engineering and Technology*, *Computer Methods in Biomechanics and Biomedical Engineering*, *Advances in Engineering Software*,  *Mathematical Problems in Engineering*, *Bioengineering*, *Remote Sensing*, *Materials*, *Sensors*, *Nutrients*, *Diagnostics*
+* Reviewer, 2021 Summer Biomechanics, Bioengineering, and Biotransport Conference (SB3C 2021), 2020 President’s Undergraduate Research Award (PURA), 2019 American Society of Mechanical Engineers (ASME) Bioengineering Division (BED) BS Level Paper Competition
+* Member, American Society of Mechanical Engineers (ASME), American Heart Association (AHA), Biomedical Engineering Society (BMES)
