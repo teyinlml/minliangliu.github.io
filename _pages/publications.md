@@ -12,6 +12,8 @@ Most of the papers are freely accessible from my [ResearchGate](https://www.rese
 
 Journal Publications
 ------
+J23. L. Liang, **M. Liu**, J. Elefteriades, and W. Sun. PyTorch-FEA: Autograd-enabled Finite Element Analysis Methods with Applications for Biomechanical Analysis of Human Aorta. *Computer Methods and Programs in Biomedicine*. 2023; 107616. [[Link](https://www.sciencedirect.com/science/article/pii/S016926072300281X)]
+
 J22. **M. Liu**, L. Liang, H. Dong, W. Sun, and R. L. Gleason. Constructing growth evolution laws of arteries via reinforcement learning. *Journal of the Mechanics and Physics of Solids*. 2022; 168, 105044. [[Link](https://www.sciencedirect.com/science/article/pii/S002250962200223X)]
 
 J21. H. Dong, **M. Liu**, X. Lou, B. G. Leshnower, W. Sun, B. Ziganshin, M. Zafar, J. A. Elefteriades. Ultimate Tensile Strength and Biaxial Stress–Strain Responses of Aortic Tissues—A Clinical-Engineering Correlation. *Applications in Engineering Science*. 2022; 10,100101. [[Link](https://www.sciencedirect.com/science/article/pii/S2666496822000188)]
