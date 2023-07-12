@@ -12,9 +12,13 @@ Most of the papers are freely accessible from my [ResearchGate](https://www.rese
 
 Journal Publications
 ------
+J25. D. H. Pak, **M. Liu**, T. Kim, L. Liang, A. Caballero, J. Onofrey, S.S. Ahn, Y. Xu, R. McKay, W. Sun, R. Gleason, and J. S. Duncan. Patient-specific Heart Geometry Modeling for Solid Biomechanics using Deep Learning. *IEEE Transactions on Medical Imaging*. 2023. [[Link](https://ieeexplore.ieee.org/document/10178071)]
+
+J24. H. Dong, **M. Liu**, J. Woodall, B.G. Leshnower, and R.L. Gleason Jr. Effect of Nonlinear Hyperelastic Property of Arterial Tissues on the Pulse Wave Velocity based on the Unified-Fiber-Distribution (UFD) Model. *Annals of Biomedical Engineering*. 2023. [[Link](https://link.springer.com/article/10.1007/s10439-023-03275-1)]
+
 J23. L. Liang, **M. Liu**, J. Elefteriades, and W. Sun. PyTorch-FEA: Autograd-enabled Finite Element Analysis Methods with Applications for Biomechanical Analysis of Human Aorta. *Computer Methods and Programs in Biomedicine*. 2023; 107616. [[Link](https://www.sciencedirect.com/science/article/pii/S016926072300281X)]
 
-J22. **M. Liu**, L. Liang, H. Dong, W. Sun, and R. L. Gleason. Constructing growth evolution laws of arteries via reinforcement learning. *Journal of the Mechanics and Physics of Solids*. 2022; 168, 105044. [[Link](https://www.sciencedirect.com/science/article/pii/S002250962200223X)]
+J22. **M. Liu**, L. Liang, H. Dong, W. Sun, and R.L. Gleason. Constructing growth evolution laws of arteries via reinforcement learning. *Journal of the Mechanics and Physics of Solids*. 2022; 168, 105044. [[Link](https://www.sciencedirect.com/science/article/pii/S002250962200223X)]
 
 J21. H. Dong, **M. Liu**, X. Lou, B. G. Leshnower, W. Sun, B. Ziganshin, M. Zafar, J. A. Elefteriades. Ultimate Tensile Strength and Biaxial Stress–Strain Responses of Aortic Tissues—A Clinical-Engineering Correlation. *Applications in Engineering Science*. 2022; 10,100101. [[Link](https://www.sciencedirect.com/science/article/pii/S2666496822000188)]
 
@@ -66,14 +70,18 @@ S1. **M. Liu**, W. Sun, and L. Liang. Analysis of aortic rupture: a computationa
 
 Full-Length Conference Publications
 ------
-C3. D. H. Pak, **M. Liu**, T. Kim, L. Liang, R. McKay, W. Sun, and J. S. Duncan. Distortion Energy for Deep Learning-based Volumetric Finite Element Mesh Generation for Aortic Valves. *The 24th International Conference on Medical Imaging Computing & Computer Assisted Intervention 2021* (MICCAI 2021). Strasbourg, France, September 27–October 1, 2021. (full-length) [[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_47)]
+C3. D. H. Pak, **M. Liu**, T. Kim, L. Liang, R. McKay, W. Sun, and J.S. Duncan. Distortion Energy for Deep Learning-based Volumetric Finite Element Mesh Generation for Aortic Valves. *The 24th International Conference on Medical Imaging Computing & Computer Assisted Intervention 2021* (MICCAI 2021). Strasbourg, France, September 27–October 1, 2021. (full-length) [[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_47)]
 
-C2. D. H. Pak, **M. Liu**, S. S. Ahn, A. Caballero, J. A. Onofrey, L. Liang, W. Sun, and J. S. Duncan. Weakly Supervised Deep Learning for Aortic Valve Finite Element Mesh Generation from 3D CT Images. *Information Processing in Medical Imaging 2021* (IPMI 2021). June 28th – June 30th, 2021. (full-length) [[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-78191-0_49)]
+C2. D. H. Pak, **M. Liu**, S.S. Ahn, A. Caballero, J.A. Onofrey, L. Liang, W. Sun, and J.S. Duncan. Weakly Supervised Deep Learning for Aortic Valve Finite Element Mesh Generation from 3D CT Images. *Information Processing in Medical Imaging 2021* (IPMI 2021). June 28th – June 30th, 2021. (full-length) [[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-78191-0_49)]
 
 C1. J. Zhao, **M. Liu**, W. Wang, and J. Xie. Airborne particulate matter classification and concentration detection based on 3D printed virtual impactor and quartz crystal microbalance sensor. *The 29th IEEE International Conference on. Micro Electro Mechanical Systems* (MEMS 2016). Shanghai, China, Jan 24-28, 2016. (full-length) [[Link](https://ieeexplore.ieee.org/abstract/document/7421756)]
 
 Abstracts and Presentations
 ------
+A25. L. Liang, **M. Liu**, and W. Sun. Integration Of Deep Neural Networks And Finite Element Method For Biomechanical Analysis Of The Aorta. *Summer Biomechanics, Bioengineering, and Biotransport Conference 2023* (SB3C 2023). Vail. CO. June 4-8, 2023.
+
+A24. H. Dong, J. Ferruzzi, **M. Liu**, L. Brewster, and R. Gleason. Effect of aging, sex, and gene (fibulin-5) on the arterial stiffness of mouse: 20 weeks adult mice with fibulin-5 knockout are older than 100 weeks wild-type mice. *Summer Biomechanics, Bioengineering, and Biotransport Conference 2023* (SB3C 2023). Vail. CO. June 4-8, 2023.
+
 A23. **M. Liu**, H. Dong, Y. Wu, A. Mazlout, J.N. Oshinski, W.Sun, J.A. Elefteriades, B.G. Leshnower, and R. L. Gleason. Statistical shape modeling reveals anatomic shape features associated with the outcome of optimal medical therapy in uncomplicated type B aortic dissection. American Heart Association Scientific Sessions 2022* Chicago, IL. November 5–7, 2022.
 
 A22. H. Dong, **M. Liu**, Y. Zhou, A. Chhabra, J.N. Oshinski, W.Sun, J.A. Elefteriades, B.G. Leshnower, and R. L. Gleason. Mechanical properties of flap and adventitia in type B aortic dissection. *American Heart Association Scientific Sessions 2022* Chicago, IL. November 5–7, 2022.
