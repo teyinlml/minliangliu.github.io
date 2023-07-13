@@ -22,7 +22,7 @@ My research interests lie primarily at the intersection of cardiovascular biomec
 
 News
 ===============
-**1/25/2023** I will join the Department of Mechanical Engineering at Texas Tech University as a tenure-track Assistant Professor this Fall. 
+**2/10/2023** I will join the Department of Mechanical Engineering at Texas Tech University as a tenure-track Assistant Professor this Fall. 
 
 **12/7/2022** I received the 2023 American Heart Association Postdoctoral Fellowship. This award totaling $143,177 will support my project on type B aortic dissection from 1/1/2023.
 
