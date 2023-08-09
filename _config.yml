@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Minliang Liu, Ph.D."
 title_separator          : "-"
 name                     : &name "Minliang Liu"
-description              : &description "Ph.D., Mechanical Engineering, Georgia Institute of Technology"
+description              : &description "Assistant Professor, Mechanical Engineering, Texas Tech University"
 url                      : https://minliangliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "minliangliu.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Minliang Liu"
   avatar           : "profile.jpg"
-  bio              : "Ph.D., Mechanical Engineering, Georgia Institute of Technology"
-  location         : "Atlanta, Georgia"
+  bio              : "Assistant Professor, Mechanical Engineering, Texas Tech University"
+  location         : "Lubbock, Texas"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=5PPa1lwAAAAJ&hl=en"
-  email            : "minliang.liu@gatech.edu"
+  email            : "minliang.liu@ttu.edu"
   researchgate     : "https://www.researchgate.net/profile/Minliang_Liu"
   uri              :
   bitbucket        :
