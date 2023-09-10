@@ -12,6 +12,8 @@ Most of the papers are freely accessible from my [ResearchGate](https://www.rese
 
 Journal Publications
 ------
+J26. L. Liang, **M. Liu**, J. Elefteriades, and W. Sun. Synergistic integration of deep neural networks and finite element method with applications of nonlinear large deformation biomechanics. *Computer Methods in Applied Mechanics and Engineering*. 2023. [[Link]([https://ieeexplore.ieee.org/document/10178071](https://www.sciencedirect.com/science/article/abs/pii/S0045782523004711))]
+
 J25. D. H. Pak, **M. Liu**, T. Kim, L. Liang, A. Caballero, J. Onofrey, S.S. Ahn, Y. Xu, R. McKay, W. Sun, R. Gleason, and J. S. Duncan. Patient-specific Heart Geometry Modeling for Solid Biomechanics using Deep Learning. *IEEE Transactions on Medical Imaging*. 2023. [[Link](https://ieeexplore.ieee.org/document/10178071)]
 
 J24. H. Dong, **M. Liu**, J. Woodall, B.G. Leshnower, and R.L. Gleason Jr. Effect of Nonlinear Hyperelastic Property of Arterial Tissues on the Pulse Wave Velocity based on the Unified-Fiber-Distribution (UFD) Model. *Annals of Biomedical Engineering*. 2023. [[Link](https://link.springer.com/article/10.1007/s10439-023-03275-1)]
